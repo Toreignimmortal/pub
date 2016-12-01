@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
 
@@ -800,8 +799,6 @@ h6,
   color: #f3c649!important;
 }
 
-
-
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -863,10 +860,4 @@ h6,
 #ext_menu-9 .link[aria-expanded="true"],
 #ext_menu-9 .dropdown-item[aria-expanded="true"] {
   color: #f3c649!important;
-}
-#header1-f .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
-}
-#header1-f .mbr-section-lead {
-  font-family: 'Indie Flower', cursive;
 }
