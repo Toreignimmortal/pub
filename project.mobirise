@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudy Multidisciplinariteit",
-    "currentPage": "index.html",
+    "currentPage": "Proces.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16,7 +16,7 @@
         "subtitleFont": "Bitter",
         "textFont": "Droid Serif",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       }
     },
@@ -1635,7 +1635,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-369.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3614.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
