@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 97,
+    "uniqCompNum": 105,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1271,7 +1271,7 @@
             "showMeta": true
           },
           "title": "Individuele associaties",
-          "meta": "23-11-2016"
+          "meta": "Door Céline op 23-11-2016"
         },
         {
           "_tags": [
@@ -1446,8 +1446,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Eerste aanzet voor de website",
-          "meta": "23-11-2016"
+          "title": "Mixed Media 1: eerste aanzet voor de website",
+          "meta": "Door Robert op 23-11-2016"
         },
         {
           "_tags": [
@@ -1489,6 +1489,67 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mixed Media 2: eerste consult Farida Moumouh",
+          "meta": "Door Robert op 02-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>De mixed media sessie met Faryda was een interessante ervaring. We moesten allemaal vertellen waar het naar toe ging met ons project, en zij stelde daar vragen over en gaf haar mening. &nbsp;Ze borrelde over van ideeën, zo ook over ons project.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Allereerst opperde ze dat we een keuze moesten maken over hoe metamorfose tot uiting moest komen in ons object, door inhoud of door vorm. Ik vertelde dat we niet een object wilde maken dat van vorm verwisselde (“Uhu, kijk metamorfose, haha.”). Daarop zij ze dat we die inhoud voor onszelf moesten definiëren, wat we ook hebben gedaan.</span></p><p><br></p><p>Dan verwees ze naar Yves Klein met zijn kosmopolische schilderijen. Ik heb daar niks over gevonden, maar ik neem aan dat ze zijn <i>cosmogonies</i> bedoelde. Nu, ze beschreef die schilderijen als volgt. Klein zou canvassen in de stad op de grond hebben gelegd om ze zo bloot te stellen aan de elementen. Na een bepaalde tijd haalde hij ze weer binnen en stelde hij ze ten&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">toon.&nbsp;</span></p><p>Ik legde haar uit dat dat geen metamorfose was binnen onze definitie, omdat dit een langzaam proces behelsde.</p><p><br></p><p>Na wat over en weer gepraat te hebben over onze definitie van metamorfose opperde ze om naar materialen te kijken die zeer makkelijk door externe factoren om te vormen of beïnvloedbaar zijn (denk aan klei, schuim, bladeren, etc.) Door ze bloot te stellen aan de elementen, ze te verbranden, of ze op een andere manier te bewerken kan je, zonder dat je de uitkomst weet, deze materialen gebruiken om je object te maken. Dus een opbouw van je object door beïnvloeding van materialen, zonder voorstudie. Doordat je niet weet wat er uit komt (cf. Yves Klein), krijg je nadruk op het aspect van “onherkenbaarheid”.</p><p><br></p><p>Faryda stelde voor om materialen in drievoud te kopen en om die op verschillende manieren te bewerken of bloot te stellen, om te zien wat het meest interessante resultaat opleverde. Daarmee was het consult ten einde.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2w",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cosmogonie-of-the-rain-1400x1075-42.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Cosmogony of the Rain (COS 30), 1960 - Rain sprayed with dry pigment on paper on cardboard. Bron: \"Yves Klein\", Hatje Cantz Publishers, Berlijn, 1995."
         },
         {
           "_styles": {
@@ -1541,8 +1602,167 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Materiaalproeven",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Individueel onderzoek \"metamorfose\"",
+          "meta": "Door Tess op 28-11-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>We maakten ieders op zich zelf woordspinnen met associaties en alle gedachten die bij het woord metamorfose opkwamen. Hier zaten vaak overeenkomsten in zoals definities en synoniemen die we eerder vonden. Na verder brainstormen kwamen er woorden bij zoals coma, spirituele verandering, gebeurtenissen en trauma.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img010-2000x1414-45.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img011-2000x1414-77.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img012e-2000x1414-46.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img007-2000x1414-93.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img009-2000x1414-42.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-2q",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Navigatie voor de website",
+          "meta": "30-11"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>In de tweede les</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2t",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_styles": {
@@ -2214,7 +2434,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-365.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-366.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
