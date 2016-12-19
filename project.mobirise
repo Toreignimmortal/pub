@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 105,
+    "uniqCompNum": 108,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1199,7 +1199,7 @@
             "showMeta": true
           },
           "title": "Gastlezingen",
-          "meta": "14-11-2016 tot 20-11-2016"
+          "meta": "Door Tess, 14-11-2016 tot 20-11-2016"
         },
         {
           "_tags": [
@@ -1271,7 +1271,7 @@
             "showMeta": true
           },
           "title": "Individuele associaties",
-          "meta": "Door Céline op 23-11-2016"
+          "meta": "Door Tess, 23-11-2016"
         },
         {
           "_tags": [
@@ -1447,7 +1447,7 @@
             "showMeta": true
           },
           "title": "Mixed Media 1: eerste aanzet voor de website",
-          "meta": "Door Robert op 23-11-2016"
+          "meta": "Door Robert, 23-11-2016"
         },
         {
           "_tags": [
@@ -1508,7 +1508,7 @@
             "showMeta": true
           },
           "title": "Mixed Media 2: eerste consult Farida Moumouh",
-          "meta": "Door Robert op 02-12-2016"
+          "meta": "Door Robert, 02-12-2016"
         },
         {
           "_tags": [
@@ -1603,7 +1603,7 @@
             "showMeta": true
           },
           "title": "Individueel onderzoek \"metamorfose\"",
-          "meta": "Door Tess op 28-11-2016"
+          "meta": "Door Céline, 28-11-2016"
         },
         {
           "_tags": [
@@ -1616,7 +1616,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>We maakten ieders op zich zelf woordspinnen met associaties en alle gedachten die bij het woord metamorfose opkwamen. Hier zaten vaak overeenkomsten in zoals definities en synoniemen die we eerder vonden. Na verder brainstormen kwamen er woorden bij zoals coma, spirituele verandering, gebeurtenissen en trauma.&nbsp;</p>"
+          "text": "<p>Iedereen deed opzoekingswerk naar het woord metamorfose. We keken naar de geschiedenis , mythes, definities en synoniemen. Zo kwamen we in de geschiedenis bij Ovidius, die zei: ‘Niets blijft, Niets vergaat’. Deze quote deed ons denken aan de bouwfysica waar we leerden dat geen enkele energie verloren gaat maar alles word omgezet in andere energie. De mythes van Peleus en Thetis, en die van Narcissus gaven ons een inzicht in de onderliggende betekenis. Een metamorfose wordt bijvoorbeeld aanzien als straf. Of men moet gedurende de metamorfose toch doorzetten om te hebben wat men het liefst zou hebben. Bij de definities kwamen we uit op vormverandering of gedaanteverandering die bij dieren door de natuur gebeuren. Synoniemen voor metamorfose zijn Transformatie of Verandering.&nbsp;</p><p><br></p><p>We maakten ieders op zich zelf woordspinnen met associaties en alle gedachten die bij het woord metamorfose opkwamen. Hier zaten vaak overeenkomsten in zoals definities en synoniemen die we eerder vonden. Na verder brainstormen kwamen er woorden bij zoals coma, spirituele verandering, gebeurtenissen en trauma.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1724,8 +1724,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Navigatie voor de website",
-          "meta": "30-11"
+          "title": "Mixd Media 1: navigatie voor de website",
+          "meta": "Door Robert, 30-11-2016"
         },
         {
           "_tags": [
@@ -1738,7 +1738,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>In de tweede les</p>"
+          "text": "<p>Voor de tweede mixed media les van Bram Overstijns moesten we de navigatie van de website ontwerpen. Er moesten verschillende pagina's in komen; een introductiepagina, uitleg over het concept, het verslag van de lezingen, een beschrijving van het proces, een pagina waar het product wordt gepresenteerd, en een webshop, want de geïnvesteerde kosten van dit project moeten natuurlijk terugverdiend worden. Tijdens het consult heeft Overstijns de structuur ietwat opgeschoond, en vervolgens kon de structuur opgevuld worden met content.</p>"
         },
         {
           "_tags": [
@@ -1750,19 +1750,158 @@
             "paddingTop": 4,
             "paddingBottom": 4,
             "bgColor": "#fff",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/img018-1400x990-94.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mixed Media 2: tweede consult met Farida Moumouh",
+          "meta": "Door Robert, 02-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Het tweede consult met F. Moumouh was zeer positief. Het resultaat van het vorige consult was met gemengde gevoelens ontvangen, en een groot deel van haar suggestisch waren terzijde geschoven door de groep. Gelukkig vond ze dat niet erg en begon ze met frisse moed aan het luisteren naar de ideeën van elke groep.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-29-800x597-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-29.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-45-800x597-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-45.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-39-800x597-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-39.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-93-800x597-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-93.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-33-800x597-64.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-33.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-51-800x597-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-51.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-54-800x597-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-54.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-66-800x597-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-12-02-13-2000x1493-66.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-2z",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -2434,7 +2573,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-366.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-368.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
