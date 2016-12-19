@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 89,
+    "uniqCompNum": 97,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1144,111 +1144,8 @@
             "showButtons": false
           },
           "title": "HET PROCES",
-          "text": "<br>Hier wordt een verslag van het proces, week per week, gegeven.<br>",
+          "text": "<br>Hier wordt een verslag van het proces, week per week, gegeven. <a href=\"Proces.html#msg-box8-1z\">Week 1</a> omvat een lezingenreeks van verschillende beeldend kunstenaars en ontwerpers. <a href=\"Proces.html#msg-box8-20\">Week 2</a> omvat de inspiratiefase. <a href=\"Proces.html#msg-box8-21\">Week 3</a> omvat de concretisering van het concept en initiële materiaalexperimenten. <a href=\"Proces.html#msg-box8-22\">Week 4</a> omvat conceptueel onderzoek en verdere materiaalexperimenten. <a href=\"Proces.html#msg-box8-23\">Week 5</a> omvat de ontwikkeling van het uiteindelijke concept, en <a href=\"Proces.html#msg-box8-24\">week 6</a> omvat de materialisering van het object.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/achtergrond2-2000x1250-80.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "<a href=\"Proces.html#msg-box8-1z\" class=\"text-primary\">WEEK 1</a>",
-                "showText": true,
-                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">14-11-2016 tot 20-11-2016</span><br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/achtergrond2-2000x1250-80.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "<a href=\"Proces.html#msg-box8-20\">WEEK 2</a>",
-                "showText": true,
-                "text": "<br>21-11-2016 tot 27-11-2016",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/achtergrond2-2000x1250-80.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "<a href=\"Proces.html#msg-box8-21\">WEEK 3</a>",
-                "showText": true,
-                "text": "<br>28-11-2016 tot 04-12-2016",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/achtergrond2-2000x1250-80.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "<a href=\"Proces.html#msg-box8-22\">WEEK 4</a>",
-                "showText": true,
-                "text": "<br>05-12-2016 tot 11-12-2016",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/achtergrond2-2000x1250-80.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "<a href=\"Proces.html#msg-box8-23\">WEEK 5</a>",
-                "showText": true,
-                "text": "<br>12-12-2016 tot 18-12-2016",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/achtergrond2-2000x1250-80.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "<a href=\"Proces.html#msg-box8-24\">WEEK 6</a>",
-                "showText": true,
-                "text": "<br>19-12-2016 tot 25-12-2016",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#2e2e2e",
-            "showBullets": true
-          },
-          "_anchor": "slider3-1r",
-          "articleLayout": false
         },
         {
           "_styles": {
@@ -1309,18 +1206,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
           "_anchor": "content1-26",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>De module multidisciplinariteit is gestart met een lezingenreeks in het teken van kunst. Gedurende één week zijn er verschillende kunstenaars of personen die multidisciplinair staan met het vakgebied interieurarchitectuur komen informeren en inzichten komen aankaarten over verscheidene onderwerpen.</p>",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          }
+          "text": "<p>De module multidisciplinariteit is gestart met een lezingenreeks in het teken van kunst. Gedurende één week zijn er verschillende kunstenaars of personen die multidisciplinair staan met het vakgebied interieurarchitectuur komen informeren en inzichten komen aankaarten over verscheidene onderwerpen.</p>"
         },
         {
           "_styles": {
@@ -1393,7 +1290,90 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img000-2000x1414-63-800x565-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img000-2000x1414-63.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img001-2000x1376-16-800x550-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img001-2000x1376-16.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img002-2000x1414-91-800x565-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img002-2000x1414-91.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img0034-2000x1414-78-800x565-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img0034-2000x1414-78.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-2i",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Door alle inspiratiebeelden naast elkaar te plaatsen, te bespreken en te analyseren zijn we snel tot drie categorieën gekomen. Met name 2D - 3D, beweging/metamorfose, functie/geen functie. De stap naar deze drie woorden is zeer spontaan gebeurd en is moeilijk weer te geven omdat de woorden eerder door bespreking in groep tot stand zijn gekomen.&nbsp;</p><p><br></p><p>Omdat drie categorieën voor zeer uiteenlopende mogelijkheden zorgt is de knoop doorgehakt om één specifieke term te kiezen. Na enig overleg is de term <b>metamorfose</b> als beste term bevonden omdat het een overkoepelend begrip is en daarnaast ook een sterk woord.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "slider3",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#f3c649"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "0",
@@ -1402,21 +1382,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img001-2000x1376-30.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img002-2000x1414-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img006-2000x1414-90.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1424,35 +1390,21 @@
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
                 "showText": false,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Celine</span><br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img003-2000x2828-96.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": true,
                 "text": "",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img004-2000x2828-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img005-2000x1414-95.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "IMAGE SLIDER",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Celine</span><br>",
+                "showText": false,
+                "text": "",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -1462,15 +1414,81 @@
             "showBullets": true
           },
           "_anchor": "slider3-2a",
-          "articleLayout": false,
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Er zijn meerdere brainstormtechnieken uitgetest. Bijvoorbeeld over dagdagelijkse voorwerpen associaties maken of nadenken over andere functies voor iets dagdagelijks. Tijdens het brainstormen is het opletten dat we niet gaan zoeken om een manier te zoeken om een uitkomst te bekomen die we willen krijgen.&nbsp;</p><p><br></p><p>Robert heeft dan het teddybeer idee tot leven geroepen. Dit houdt in dat iedereen het eindontwerp ( eventueel op kleinere schaal) voor een tijdje zou meenemen om de reacties van mensen te meten. Naast reacties kunnen we op deze manier ook zelf een band opbouwen met het ontwerp en eigen herinneringen zouden creëren.&nbsp;</p><p><br></p><p>Door het bezoek aan het Muhka is er besloten om van elke week tijdens het ontwerp proces een klein fotoboekje te maken van de meest sprekende beelden. Deze werkjes zouden een interessant logboekje kunnen zijn voor iedereen.&nbsp;</p>"
+        },
+        {
           "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "SPAN": {
-              "color": "#f3c649"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Eerste aanzet voor de website",
+          "meta": "23-11-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Onder leiding van Bram Overstijns leert de mixed-media verantwoordelijke van de groep (in dit geval Robert) om een website te maken die het creatieve proces documenteerd. Bij de eerste les moesten we 5 beelden hebben die ons project inspireren. Tijdens de les werd geleerd om via Mobirise een website te maken en deze via GitHub online te zetten. Aan het eind van de les bevatte deze website enkel de vijf afbeeldingen die op de index pagine, alsmede hieronder getoond worden."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2o",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img008-1400x1979-93.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_styles": {
@@ -1578,7 +1596,7 @@
             "showMeta": true
           },
           "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": "23-11-2016"
         },
         {
           "_styles": {
@@ -2196,7 +2214,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-361.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-365.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {

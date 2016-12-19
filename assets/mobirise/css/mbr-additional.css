@@ -774,6 +774,10 @@ h6,
 #slider3-2a SPAN {
   color: #f3c649;
 }
+#header3-2l .mbr-section-title,
+#header3-2l .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box8-21 .mbr-section-title,
 #msg-box8-21 p {
   color: #fff;
