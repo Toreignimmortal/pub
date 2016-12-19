@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 108,
+    "uniqCompNum": 113,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1616,7 +1616,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Iedereen deed opzoekingswerk naar het woord metamorfose. We keken naar de geschiedenis , mythes, definities en synoniemen. Zo kwamen we in de geschiedenis bij Ovidius, die zei: ‘Niets blijft, Niets vergaat’. Deze quote deed ons denken aan de bouwfysica waar we leerden dat geen enkele energie verloren gaat maar alles word omgezet in andere energie. De mythes van Peleus en Thetis, en die van Narcissus gaven ons een inzicht in de onderliggende betekenis. Een metamorfose wordt bijvoorbeeld aanzien als straf. Of men moet gedurende de metamorfose toch doorzetten om te hebben wat men het liefst zou hebben. Bij de definities kwamen we uit op vormverandering of gedaanteverandering die bij dieren door de natuur gebeuren. Synoniemen voor metamorfose zijn Transformatie of Verandering.&nbsp;</p><p><br></p><p>We maakten ieders op zich zelf woordspinnen met associaties en alle gedachten die bij het woord metamorfose opkwamen. Hier zaten vaak overeenkomsten in zoals definities en synoniemen die we eerder vonden. Na verder brainstormen kwamen er woorden bij zoals coma, spirituele verandering, gebeurtenissen en trauma.&nbsp;</p>"
+          "text": "<p>Iedereen deed opzoekingswerk naar het woord metamorfose. We keken naar de geschiedenis , mythes, definities en synoniemen. Zo kwamen we in de geschiedenis bij Ovidius, die zei: ‘Niets blijft, Niets vergaat’. Deze quote deed ons denken aan de bouwfysica waar we leerden dat geen enkele energie verloren gaat maar alles word omgezet in andere energie. De mythes van Peleus en Thetis, en die van Narcissus gaven ons een inzicht in de onderliggende betekenis. Een metamorfose wordt bijvoorbeeld aanzien als straf. Of men moet gedurende de metamorfose toch doorzetten om te hebben wat men het liefst zou hebben. Bij de definities kwamen we uit op vormverandering of gedaanteverandering die bij dieren door de natuur gebeuren. Synoniemen voor metamorfose zijn Transformatie of Verandering.&nbsp;</p><p><br></p><p>We maakten ieders op zich zelf woordspinnen met associaties en alle gedachten die bij het woord metamorfose opkwamen. Hier zaten vaak overeenkomsten in zoals definities en synoniemen die we eerder vonden. Na verder brainstormen kwamen er woorden bij zoals coma, spirituele verandering, gebeurtenissen en trauma. Na al het opzoek werk vonden we tientallen definities en verschillende mogelijke takken onder het woord metamorfose en besloten we om onze definitie te bepalen. Metamorfose is een onherkenbare verandering zonder dat je er iets aan kan doen. Hij is met andere woorden oncontroleerbaar en drastisch, gebeurt op relatief korte tijd en het is een transformatie.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1756,6 +1756,129 @@
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/img018-1400x990-94.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-30",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Brainstorm rond",
+          "meta": "Door Céline, 30-11-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-31",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Na al het opzoek werk vonden we tientallen definities en verschillende mogelijke takken onder het woord metamorfose en besloten we om onze definitie te bepalen. Metamorfose is een onherkenbare verandering zonder dat je er iets aan kan doen. Hij is met andere woorden oncontroleerbaar en drastisch, gebeurt op relatief korte tijd en het is een transformatie. Daags daarna dachten we voort op deze 4 kernbegrippen (oncontroleerbaar, drastisch, op relatief korte tijd, transformatie) en dachten na over metamorfose in termen van &nbsp;materiaal en functie, de geschiedenis en de omgeving.&nbsp;</span><br><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img013-2000x1414-52-800x565-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img013-2000x1414-52.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img014-2000x1414-31-800x565-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img014-2000x1414-31.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img015-2000x1414-44-800x565-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img015-2000x1414-44.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img016-2000x1414-40-800x565-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img016-2000x1414-40.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-32",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-34",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img017-1400x1979-7.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2573,7 +2696,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-368.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-369.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {

@@ -794,6 +794,10 @@ h6,
 #header3-2r .mbr-section-subtitle {
   text-align: center;
 }
+#header3-30 .mbr-section-title,
+#header3-30 .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-2x .mbr-section-title,
 #header3-2x .mbr-section-subtitle {
   text-align: center;
