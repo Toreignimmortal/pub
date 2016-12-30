@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudy Multidisciplinariteit",
-    "currentPage": "privacy.html",
+    "currentPage": "Concept.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 159,
+    "uniqCompNum": 161,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -379,7 +379,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-84.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -396,8 +396,21 @@
             "showButtons": false
           },
           "title": "CONCEPT<br>",
-          "text": "<br>Metamorfose is een drastische, oncontroleerbare transformatie op relatief korte tijd.",
+          "text": "Metamorfose is een drastische, oncontroleerbare transformatie op relatief korte tijd. Onderstaand vind u een korte uitleg van de achterliggende gedacht van <b>TML</b>.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Metamorfose is een drastische, oncontroleerbare transformatie op relatief korte tijd. <b>TML</b> is ontstaan uit een opeenvolging van metamorfische processen en geeft uiting aan die veelvuldigheid in haar overgangsproces van tweedimensionaal naar driemensionaal object, en van analoge creatie naar digitale projectie.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Uit vooronderzoek naar het concept 'metamorfose'—naar haar bron in de mythologie, haar culturele betekenis in de literatuur, en haar manifestatie in hedendaagse producten—blijkt dat de pure, klassieke 'metamorfose' een proces is dat wij mensen ontberen in onze wereld. De overgang van één pure vorm met één functie naar een tweede ongerelateerde vorm met een andere functie, op abrupte wijze is een proces dat wij als mensen niet teweeg kunnen brengen. Dat is ook de reden waarom zij in het verleden werd toegeschreven aan goden (bijvoorbeeld bij Ovidius), en in het heden wordt toegeschreven aan &nbsp;de wetenschap (Stephenson) of het onbekende (Kafka).</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Daarom besloten wij als collectief om een object te creëeren dat de rijkheid van de wereld die de term 'metamorfose' behelst weergeeft, in haar proces, maar ook in de performance die onderdeel is van het resultaat. Om deze manifestatie kracht bij te zetten is ook het creatieproces niet onberoerd gelaten door het concept metamorfose. Door gebruik te maken van verschillende experimenten en processen, met elk zijn limitaties dankzij onze menselijkheid, is er een vorm ontstaan die niet voortkomt uit voorzichtige berekeningen of vernuftig design—wij hebben het proces uit handen gegeven en het ontwerp laten bepalen door kans, omringende omstandigheden en onze eigen menselijke beperkingen.</span><br></p>"
         },
         {
           "_tags": [
@@ -4110,7 +4123,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-364.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-362.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4453,7 +4466,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-364.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-362.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
