@@ -623,6 +623,17 @@ h6,
 #content2-1e BLOCKQUOTE {
   font-size: 24px;
 }
+#content2-4n BLOCKQUOTE {
+  font-size: 24px;
+}
+#header3-4h .mbr-section-title,
+#header3-4h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4j .mbr-section-title,
+#header3-4j .mbr-section-subtitle {
+  text-align: center;
+}
 
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;

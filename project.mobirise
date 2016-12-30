@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudy Multidisciplinariteit",
-    "currentPage": "Concept.html",
+    "currentPage": "Proces.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 161,
+    "uniqCompNum": 171,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -396,7 +396,7 @@
             "showButtons": false
           },
           "title": "CONCEPT<br>",
-          "text": "Metamorfose is een drastische, oncontroleerbare transformatie op relatief korte tijd. Onderstaand vind u een korte uitleg van de achterliggende gedacht van <b>TML</b>.<br>",
+          "text": "<br>Metamorfose is een drastische, oncontroleerbare transformatie op relatief korte tijd. Onderstaand vind u een korte uitleg van de achterliggende gedacht van <b>TML</b>.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -406,8 +406,8 @@
           "_name": "content1",
           "_anchor": "content1-4g",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Metamorfose is een drastische, oncontroleerbare transformatie op relatief korte tijd. <b>TML</b> is ontstaan uit een opeenvolging van metamorfische processen en geeft uiting aan die veelvuldigheid in haar overgangsproces van tweedimensionaal naar driemensionaal object, en van analoge creatie naar digitale projectie.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Uit vooronderzoek naar het concept 'metamorfose'—naar haar bron in de mythologie, haar culturele betekenis in de literatuur, en haar manifestatie in hedendaagse producten—blijkt dat de pure, klassieke 'metamorfose' een proces is dat wij mensen ontberen in onze wereld. De overgang van één pure vorm met één functie naar een tweede ongerelateerde vorm met een andere functie, op abrupte wijze is een proces dat wij als mensen niet teweeg kunnen brengen. Dat is ook de reden waarom zij in het verleden werd toegeschreven aan goden (bijvoorbeeld bij Ovidius), en in het heden wordt toegeschreven aan &nbsp;de wetenschap (Stephenson) of het onbekende (Kafka).</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Daarom besloten wij als collectief om een object te creëeren dat de rijkheid van de wereld die de term 'metamorfose' behelst weergeeft, in haar proces, maar ook in de performance die onderdeel is van het resultaat. Om deze manifestatie kracht bij te zetten is ook het creatieproces niet onberoerd gelaten door het concept metamorfose. Door gebruik te maken van verschillende experimenten en processen, met elk zijn limitaties dankzij onze menselijkheid, is er een vorm ontstaan die niet voortkomt uit voorzichtige berekeningen of vernuftig design—wij hebben het proces uit handen gegeven en het ontwerp laten bepalen door kans, omringende omstandigheden en onze eigen menselijke beperkingen.</span><br></p>"
@@ -558,7 +558,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-44.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -575,7 +575,7 @@
             "showButtons": false
           },
           "title": "VOORONDERZOEK",
-          "text": "<br>Hier wordt het vooronderzoek van het project toegelicht. Er wordt verwezen naar katern 1, katern 2, katern 3, en katern 4 van de Theorie Multidisciplinariteit.<br>",
+          "text": "<br>Hier wordt het vooronderzoek van het project toegelicht. Er wordt verwezen naar <a href=\"Onderzoek.html#header3-t\">katern 1</a>, <a href=\"Onderzoek.html#header3-1a\">katern 2</a>, <a href=\"Onderzoek.html#header3-4h\">katern 3</a>, en <a href=\"Onderzoek.html#header3-4j\">katern 4</a> van de Theorie Multidisciplinariteit.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -827,6 +827,133 @@
             "bgColor": "#fff"
           },
           "text": "<blockquote>\"Interieurarchitectuur is een sector die veel met prestige te maken heeft. De grote sommen geld die hieraan gerelateerd zijn zorgen voor voorzichtigheid bij de mensen.\"</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-4m",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Kritische vragen</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tijdens de lezing was er ook tijd voor een aantal kritisch vragen. Otten gaf aan dat opdrachtgevers naar hem toe komen met opdrachten en dat hij er in normale omstandigheden niet zelf achter gaat vragen.\nVoor een ontwerp werkt hij ongeveer één ontwerpfase per dag uit, de realisatie kan uiteraard meerdere dagen in beslag nemen. Naar eerlijkheid van materiaal toe houdt hij van lak op hout. Een vaak gebruikt materiaal is de duurdere berkenmultiplex. Vaak wordt deze gelakt zonder de gebruikelijke voorafgaande grondlaag waardoor de houtstructuur voelbaar blijft. Lak op zich heeft voor hem ‘bestaansrecht’ dus hij ziet het als een eerlijk materiaal op zich en niet als het verbergen van de multiplex. Op de vraag naar het verband tussen zijn scenografie en zijn meubelontwerp antwoord hij ontwijkend. Hij vindt niet dat ze verwant zijn omdat het binnen zijn scenografie draait om de ten toon gestelde beelden, en niet om zijn eigen werk. Bij een aantal projecten werden er wel meubels\nen installaties van eigen hand gebruikt, maar dat kwam voornamelijk doordat hij minder tijd had, of omdat het onduidelijk was hoeveel en welke soort objecten tentoongesteld worden (in dit geval gaat het om een tentoonstelling in De Winkelhaak).</span><br></p>",
+          "text2": "<p><b>Kritische opmerkingen\n</b></p><p>Kunstenaars kunnen soms een beetje zweven of zich beschermend opstellen door ontwijkend te reageren. Otten is een echte kunstenaar maar\neen zeer nuchtere die er niet voor terugdeinst om de keerzijde van het vak te tonen. Zijn eerlijkheid over samenwerkingen die niet zo vlot lopen, opdrachtgevers die niet van hun standpunten wijken, bepaalde materialen een beetje beu te zijn (multiplex). Binnen het werkveld is hij in meerdere gebieden actief. De combinatie die hij doet is zeer interessant om te zien dat er een afwisseling in zijn werk en zijn creativiteit zit. Terwijl hij toch ook aangaf dat een creatief proces vooral een resul- taat krijgt waaraan men tracht te voldoen aan de esthetische waarden van de opdrachtgever. Het heeft niet altijd een diepliggende betekenis; men tracht zich te schikken naar klanten en te verko- pen. Dat nuchtere komt ook terug in zijn naam. Dries Otten met drie keer het mannetje met het woord zot getekend – drie zotten. Hiermee laat hij zien dat er aan alles een ontnuchterende kant zit.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>\"Otten is een echte kunstenaar maar een zeer nuchtere die er niet voor terugdeinst om de keerzijde van het vak te tonen.\"</blockquote>",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "KATERN 3",
+          "meta": "Reflecties gastlezingen"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Vanuit onze groep gezien zijn we uit de onderstaande vragen niet tot een algemene conclusie genomen. We hebben besloten dit als een voordeel te beschouwen omdat samenwerken met verschillende meningen niet de gemakkelijkste weg is maar wel interessante resultaten kan opleveren.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-4i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Welke twee elementen in een andere lezing hebben jullie het meest getriggerd en waarom?</b><br></p><p><br></p><p>Uit de lezing van Renato Nicolodi is de link die\nhij maakt tussen het verleden en de toekomst een inspirerend gegeven. De verhalen die de basis vormen van zijn werk zijn a omstig van zijn grootvader waardoor zijn werk iets zeer sterkt krijgt. Het ontwerpproces, de keuze van materialen en de manier van realisatie zorgen ervoor dat het geheel klopt. Zijn manier van uitbeelden is uniek. Ook voor de realisatie van zijn ontwerpen is hij een opmerkelijk kunstenaar. Hij realiseert de ontwerpen met zijn eigen handen in het atelier met een perfectie die bijna onmenselijk is. Opmerkelijk is dat hoewel hij zeer inspirerend is als kunstenaar hij in onze groep ook terugkomt bij de elementen die moeilijk te interpreteren zijn.</p><p><br></p><p><br></p>",
+          "text2": "<p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ten tweede hebben we gekozen voor de lezing van Ellen Pil. Zij iseen inspirerend kunstenaar omdat ze haar ontwerpproces duidelijk aangaf. Ze had daarbij ook een soort mysterie en onduidelijkheid over zich. Ze gaf aan van schetsen, proefontwerpen te starten en het werk dat daar uit voortkomt is niet altijd beter dan de aanzet. Dit vonden wij een interessant gegeven omdat het aantoont dat ontwerpen voornamelijk iets plezierig is voor haar. Het bezig zijn om tot een resultaat te komen is als het ware belangrijker dan het resultaat op zich.\nDaarnaast had ze ook geen problemen om haar tekorten aan te kaarten. Ze gaf openlijk toe dat ze liever geen mensen schildert omdat de kennis van anatomie om mensen correct weer te geven haar ontbreekt. Dat ze een aantal werken liever niet terugziet omdat ze lelijk zijn.</span><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-4p",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Met welk element of item uit een andere spreekbeurt hebben jullie het moeilijk om dit te interpreteren?\n</b></p><p><br></p><p>We zien voornamelijk hier dat de meningen uiteen lopen. Sommigen vinden het moeilijk om de kunst- werken van Leon Vranken te interpreteren. Conceptuele kunst wordt niet door iedereen gesmaakt. Hedendaagse kunst kiest er vaak bewust voor geen kaartje met verduidelijking of uitleg bij het kunst- werk te plaatsen. Ze willen dat toeschouwers zelf over het werk nadenken en eventueel hun eigen gedacht en en ideeen erover vormen. Waarbij anderen van\nde groep vonden dit juist interessant om zelf te gaan spelen en het verhaal gaan ontdekken.</p>",
+          "text2": "<p><br></p><p><br></p><p><br></p><p>Renato komt hier ook terug omdat het continue werken rond de bunkers gezien kan worden als het verleden niet kunnen loslaten. Ondertussen hee  hij al een heel oeuvre aan gelijkaardige werken gemaakt en lijkt hij van plan om zijn werk volgens dit patroon nog even verder te zetten. We zouden het interessant vinden mocht hij een brug of een projectie naar de toekomst maken.\nKort zouden we kunnen samenvatten dat hoewel we zijn werk fantastisch vinden, maar dat sommige groepsleden niet meteen ideologisch begrip kunnen opbrengen voor zijn mentaliteit.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "KATERN 4",
+          "meta": "Inspiratie en analyse"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-4k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
         {
           "_tags": [
@@ -4123,7 +4250,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-362.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-367.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4466,7 +4593,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-362.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-367.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
