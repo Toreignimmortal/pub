@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudy Multidisciplinariteit",
-    "currentPage": "Proces.html",
+    "currentPage": "Webshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 183,
+    "uniqCompNum": 226,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -622,41 +622,44 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/driesotten7-2000x1500-58-800x600-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/driesotten7-2000x1500-58.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/driesotten6-2000x1500-2-800x600-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/driesotten6-2000x1500-2.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/driesotten8-2000x1500-72-800x600-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/driesotten8-2000x1500-72.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/driesotten5-2000x1500-74-800x600-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/driesotten5-2000x1500-74.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 0,
@@ -751,37 +754,40 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/driesotten1-2000x1500-4-800x600-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/driesotten1-2000x1500-4.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/driesotten2-2000x1500-39-800x600-72.jpg",
+                "image": "@PROJECT_PATH@/assets/images/driesotten2-2000x1500-39.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/driesotten3-2000x1500-77-800x600-89.jpg",
+                "image": "@PROJECT_PATH@/assets/images/driesotten3-2000x1500-77.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/driesotten4-2000x1500-4-800x600-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/driesotten4-2000x1500-4.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 0,
@@ -859,6 +865,19 @@
             "bgColor": "#fff"
           },
           "text": "<blockquote>\"Otten is een echte kunstenaar maar een zeer nuchtere die er niet voor terugdeinst om de keerzijde van het vak te tonen.\"</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Bronvermelding afbeeldingen Dries Otten:</p><p><br></p><p>Afbeeldingen Dries Otten. Geraadpleegd op 9 januari 2016 via http://driesotten.be/&nbsp;</p>"
         },
         {
           "_styles": {
@@ -997,77 +1016,44 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kafka1-2000x1500-37-800x600-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kafka1-2000x1500-37.jpg",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/kafka2-2000x1500-20-800x600-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kafka2-2000x1500-20.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/kafka3-2000x1500-22-800x600-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kafka3-2000x1500-22.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/kafka4-2000x1500-43-800x600-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kafka4-2000x1500-43.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 0,
@@ -1142,73 +1128,40 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/malevich1-2000x1500-42-800x600-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/malevich1-2000x1500-42.jpg",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/malevich2-2000x1500-41-800x600-42.png",
+                "image": "@PROJECT_PATH@/assets/images/malevich2-2000x1500-41.png",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/malevich3-2000x1500-15-800x600-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/malevich3-2000x1500-15.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/malevich4-2000x1500-5-800x600-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/malevich4-2000x1500-5.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 0,
@@ -1236,6 +1189,24 @@
           },
           "text1": "<p><b>Vergelijkende analyse</b></p><p>Beide cross overs zijn voorstellingen, het betreft één dansvoorstelling en één theatervoorstelling, die qua opzet en benadering van elkaar verschillen.\nDe decors die ingezet zijn hebben een totaal andere opbouw. Zo zien we bij Metamorphosis een beweegbaar en vrij gedetailleerd decor in vergelijking met het simpele zwarte vierkant bij Victory Over the Sun. Beide kennen een divers materiaalgebruik.\nBij Metamorphosis zien we dat er echt een interieur wordt gecreëerd. Er is een aanwezigheid van specifieke objecten zoals een tafel en een bed en daarnaast worden er ook muren aangegeven. Hierdoor kunnen toeschouwers de ruimte voor zichzelf a akenen en kunnen ze zich beter identificeren met het toneel. Het gaat hier eerder over een berekend decor. Dit is opzettelijk zo opgesteld omdat het stuk start vanuit een alledaagsheid waarin iedereen zich zou moeten herkennen. &nbsp;</p>",
           "text2": "<p>Victory of the sun toont ons met een zwart vierkant een abstracter decor en een onbepaalder decor. De lezer zal zelf moeten invullen hoe hij de ruimte maak en hoe de omgeving er uitziet. Dit kan een bewuste keuze zijn omdat de voorstelling zich in meerdere omgevingen zou kunnen afspelen en dus niet in één omgeving kan geplaatst worden. Voor dit stuk is het eerder een intuïtief aanvoelen van de ruimte of omgeving. Het gaat hier over een toekomst die voor ons allen nog ontoereikbaar is en waar we nog geen volledig zicht op hebben. Beide hebben een dramatisch thema en roepen ook een vorm van onduidelijkheid en onzekerheid op. Het vernieuwende zorgt ervoor dat de toeschouwer niet meteen houvast vindt. De dansvoorstelling biedt deze houvast door een erkenning van een interieur ruimte te bieden, met name woonkamer, keuken en slaapkamer. De theater voorstelling gee echter geen houvast en laat de toeschouwer in het onbekende en eerder absurde.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Bronvermelding afbeeldingen:&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding theatervoorstelling ‘Victory over the sun’. Geraadpleegd op 23 november 2016 via https://commons.wikimedia.org/wiki/File:Victory_over_the_Sun_(Stas_Namin's_theatre,_Moscow,_2014)_14.jpg</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding omtrent Victory over the sun. Geraadpleegd op 23 november 016 via https://www.wikiart.org/en/kazimir-malevich/not_detected_219727-1913.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding theatervoorstelling ‘Victory over the sun’. Geraadpleegd op 23 november 2016 via https://www.flickr.com/photos/gubanova/3111110804</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding theatervoorstelling ‘Victory over the sun’. Geraadpleegd op 23 november 2016 via https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Victory_over_the_Sun_(Stas_Namin's_theatre,_Moscow,_2014)_07.jpg/1074px-Victory_over_the_Sun_(Stas_Namin's_theatre,_Moscow,_2014)_07.jpg&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span>Kenton, T. (2013). Foto’s uit dansvoorstelling ‘Metamorphosis-dancing-kafka’. Geraadpleegd op 23 november 2016 via http://www.nybooks.com/daily/2013/09/21/metamorphosis-dancing-kafka/.</p><p><br></p><p><br></p><p><br></p>",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          }
         },
         {
           "_tags": [
@@ -1980,7 +1951,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Mixd Media 1: navigatie voor de website",
+          "title": "Mixed Media 1: navigatie voor de website",
           "meta": "Door Robert, 30-11-2016"
         },
         {
@@ -2164,7 +2135,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Consult met begleiders: 'transformables'",
+          "title": "Consult met begeleiders: 'transformables'",
           "meta": "Door Robert/Céline, 01-12-16"
         },
         {
@@ -2178,7 +2149,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Na twee weken brainstormen en discussiëren leek het project een groot deel van haar originele levenskracht te hebben verloren. Naar aanleiding van het consult met de begeleiders op 01-12 besloot de groep om individueel op zoek te gaan naar zogenaamde 'transformeables', oftewel, producten of objecten die van vorm veranderden. Al gauw bleek dat de individuele leden een heel ander beeld hadden van metamorfose in het dagelijks leven; T<span style=\"font-size: 1.07rem; line-height: 1.5;\">ess zocht weer meer in kunst waar Robert en Céline eerder dachten in de richting van transformerende meubels en objecten. Desondanks werd er besloten om toch verder te gaan met de verschillende interpretaties van de term 'transformables'.</span></p><p><br></p>"
+          "text": "<p>Na twee weken brainstormen en discussiëren leek het project een groot deel van haar originele levenskracht te hebben verloren. Het aankomende consult met de begeleiders beloofde om wat extra energie te geven.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Tijdens het consult werd er gesproken over dagelijkse voorwerpen die een metamorfose of transformatie ondergaan. Hieronder verstaan we marktwagens, uitklapbare slaapbanken, uitklapbare picknicktafels, paraplu’s, … allen dynamische objecten.&nbsp;</span></p><p>Ook het principe van een veldhospitalen en circustenten die ontworpen zijn om relatief snel op- en afbraak mogelijk te maken.</p><p>De geniebrug of brugtank werd aangehaald om even verder op te brainstormen.&nbsp;</p><p>Transformables zijn actionfiguren die van robot naar auto’s transformeren.</p><p><br></p><p>het consult ging voornamelijk over het uitvergroten van compacte voorwerpen al dan niet naar andere functies.</p><p>De raad werd gegeven om deze ideeën aan beelden te koppelen werd en vanuit deze inspiratiebeelden opvattingen te creëren en om te zetten in objecten. Het conceptuele moesten we kunnen vatten.</p><p><br></p><p>Daarnaast kregen we enkele losstaande ideeën, ingevingen in samenwerking met de begeleiders mee:&nbsp;</p><p>2de huid in lamp maken.</p><p>Layers absorberen.</p><p>Onzichtbare vernieling.</p><p>Capsules die elkaar vernielen.</p><p>Ballon in viskom opblazen.</p><p>3 dubbelglas waarbij het middelste glas wordt opgeblazen.</p><p>Explosie: hier waren ze voorstander van maar ze gaven aan dat het technisch vaak moeilijk uit te werken is.</p><p>Transformatietechnieken zoals plooien en blazen.</p><p>Eenvoudige transformatie.</p><p><br></p><p>Hieruit moesten we één of twee waarheden gaan destilleren.&nbsp;</p><p><br></p><p>Naar aanleiding van dit consult met de begeleiders besloot de groep om individueel op zoek te gaan naar zogenaamde 'transformables', oftewel, producten of objecten die van vorm veranderden.Al gauw bleek dat de individuele leden een heel ander beeld hadden van metamorfose in het dagelijks leven; T<span style=\"font-size: 1.07rem; line-height: 1.5;\">ess zocht weer meer in kunst waar Robert en Céline eerder dachten in de richting van transformerende meubels en objecten. Desondanks werd er besloten om toch verder te gaan met de verschillende interpretaties van de term 'transformables'.</span></p><p><br></p>"
         },
         {
           "_tags": [
@@ -2465,17 +2436,54 @@
           "meta": "Door Céline, 05-12-2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-3n",
+          "_name": "slider2",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/nagellak-2000x1414-73.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/nagellak-2-2000x1414-27.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showBullets": true
           },
-          "text": "<p>Tekst...</p>"
+          "_anchor": "slider2-53"
         },
         {
           "_styles": {
@@ -2746,28 +2754,123 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3x",
+          "_anchor": "header3-60",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Materiaalproeven: conclusie",
-          "meta": "Door Laura, 08-12-2016"
+          "title": "Mixed Media 1: footer en 'Team'-pagina",
+          "meta": "Door Robert, 08-12-2016"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3y",
+          "_anchor": "content1-61",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Omdat het bleef bij associaties en we nog steeds niet concreet hadden besloten wat we gingen doen, zijn we begonnen aan verschillende experimenten. Omdat er van materialisatie nog geen spraken was besloten we allemaal verschillende soorten materialen te kiezen.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">De gekozen materialen waren zeer uiteenlopend. Van hout tot petflessen, van afval tot nagellak. Zowat alles waar we aan dachten hebben we onderworpen aan verschillende proefjes om zo een zicht te krijgen over de metamorfose van het materiaal.</span></p><p><br></p><p>We besloten alle materialen buiten te leggen om zo te kijken of de temperatuur iets met het materiaal deed. Terwijl we hierop moesten wachten, hebben we ook geëxperimenteerd met nagellak en dissolvent. We maakten een vlek van nagellak om vervolgens er een druppel dissolvent op te doen. Ook hebben we met het slaan op hout een leuke bewerking proberen te maken.</p><p>Van mechanische belasting tot het onderdompelen in vrieskou, we hebben het allemaal getest. Maar ondanks de grote verwachtingen, bleven deze echter uit. De metamorfose was zo klein, dat het zelfs met het blote oog moeilijk te zien was.&nbsp;</p><p><br></p><p>De spontane metamorfose op relatief korte tijd bleef uit. We waren opzoek naar een drastische verandering.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Even zaten we met de handen in het haar, tot we aan plasticinedachten. Zo schoot er spontaan een nieuw experiment te binnen. We dachten als we nu is alle 4 geblinddoekt gedurende 1 minuut een stuk plasticine bewerken. We kregen alle dezelfde woorden voorgeschoteld, maar toch was ons eindresultaat steeds anders.&nbsp;</span></p><p><br></p><p>Ondanks dat het woord dat we kregen hetzelfde was, betekende dat voor iedereen iets anders. We hebben dit experiment grondig gefotografeerd. Wanneer we alle foto’s bekeken, zagen we toch een link tussen al de experimenten die we hebben uitgevoerd. Namelijk uitdeining of uitzetting.</p><p><br></p><p>Bij uitdeining blijft het volume wel hetzelfde maar de vorm veranderd. Hierdoor waren we meteen geïnspireerd. &nbsp;</p>"
+          "text": "<p>In de derde week werd er meer visuele features aan de website toegevoegd. Naar suggestie van Bram Overstijns werd er een footer toegevoegd met links naar de belangrijkste locaties op de website alsmede essentiële informatie omtrent het project. Rond de teampagina ontstond er in het begin een probleem, omdat de 'features' blokken (waarbij vier kolommen met tekst en afbeeldingen naast elkaar gezet kunnen worden) geen afbeeldingen over de gehele breedte van de pagina konden voorzien, hetgeen een essentieel onderdeel voor het design van de website is. Dit werd opgelost door de afbeeldingen uit de kolommen te verwijderen en het features blok te combineren met een images blok dat wel over de gehele breedte loopt. Over deze creatieve oplossing was Overstijns erg te spreken.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-12-01-at-15-2000x1250-72-800x500-25.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-12-01-at-15-2000x1250-72.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-12-01-at-15-2000x1250-81-800x500-86.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-12-01-at-15-2000x1250-81.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-12-01-at-15-2000x1250-34-800x500-63.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-12-01-at-15-2000x1250-34.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-09-at-16-2000x1250-27-800x500-8.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-09-at-16-2000x1250-27.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-62",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Materiaalproeven: plasticine",
+          "meta": "Door Tess, 09-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>De groep achtte het belangrijk om vormen te creëren waarop we konden voortbouwen. Omdat we voorstander waren van werken met vernieuwende vormen is er besloten om te gaan experimenteren waarbij oncontroleerbaarheid centraal staat.</p><p>Zo is de idee ontstaan om geblinddoekt met plasticine te gaan boetseren. Het menselijk lichaam is sterk afhankelijk van zintuigen. Door het wegnemen van zicht zouden we geen volledige controle meer kunnen uitoefenen. Zonder zicht zouden we veel minder vat hebben op de coördinatie van onze handen.</p><p><br></p><p>Geblinddoekt zijn we aan de hand van zeven kernwoorden gaan boetseren. Binnen het tijdsverloop van één minuut moesten we een rechthoekig blokje plasticine boetseren hoe we het woord aanvoelen, interpreteren, vormgeven, etcetera.</p><p>De zeven begrippen waren dood, pijn, intens, goden, straf, ziel en vuur. Bewust is er gekozen om niet te lang na de denken over de woorden en de woorden abstract te houden.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Gedurende het hele proces zijn de handen van de deelnemende persoon geobserveerd.</span><br></p><p><br></p><p>Het resultaat was bij iedereen opmerkelijk anders. We zien letterlijke interpretaties, abstracte opvattingen, gevoelens en uitbeeldende resultaten. De resulterende vormen zijn dus ook zeer verschillend. De resultaten zijn in een beeldenreeks verwerkt en de achterliggende ideeën voor het boetseren zijn in een tabel geplaatst.</p>"
         },
         {
           "_styles": {
@@ -2986,6 +3089,113 @@
             "showBullets": true
           },
           "_anchor": "slider2-3z"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Nadien zijn we verder gaan nadenken over andere experimenten. Aangezien we de eerste kleiproef als leerrijk hebben ervaren zijn we gaan kijken hoe we deze op een ander manier zouden kunnen vormgeven.</p><p>Vanuit de eerste kleiproef is er een nieuwe gelijkaardige proef ontwikkeld. Er is een lijstje opgesteld met een aantal werkwoorden (duwen, draaien, gooien, knijpen, trekken, …). Dit lijstje heeft iedereen tegelijkertijd geblinddoekt gevolgd. Na het afwerken van de lijst mocht de blinddoek af en werden de resultaten bekeken.&nbsp;</p><p>Ook hier waren er grote verschillen in de vormgeving van de kei aanwezig. Twee van de vier bewerkte kleiblokjes toonden hier wel gelijkaardige vormen.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5p",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/overzicht-1400x1050-77.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Het resultaat van het tweede plasticine experiment."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Materiaalproeven: conclusie",
+          "meta": "Door Laura, 08-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Omdat het bleef bij associaties en we nog steeds niet concreet hadden besloten wat we gingen doen, zijn we begonnen aan verschillende experimenten. Omdat er van materialisatie nog geen spraken was besloten we allemaal verschillende soorten materialen te kiezen.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">De gekozen materialen waren zeer uiteenlopend. Van hout tot petflessen, van afval tot nagellak. Zowat alles waar we aan dachten hebben we onderworpen aan verschillende proefjes om zo een zicht te krijgen over de metamorfose van het materiaal.</span></p><p><br></p><p>We besloten alle materialen buiten te leggen om zo te kijken of de temperatuur iets met het materiaal deed. Terwijl we hierop moesten wachten, hebben we ook geëxperimenteerd met nagellak en dissolvent. We maakten een vlek van nagellak om vervolgens er een druppel dissolvent op te doen. Ook hebben we met het slaan op hout een leuke bewerking proberen te maken.</p><p>Van mechanische belasting tot het onderdompelen in vrieskou, we hebben het allemaal getest. Maar ondanks de grote verwachtingen, bleven deze echter uit. De metamorfose was zo klein, dat het zelfs met het blote oog moeilijk te zien was.&nbsp;</p><p><br></p><p>De spontane metamorfose op relatief korte tijd bleef uit. We waren opzoek naar een drastische verandering.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Even zaten we met de handen in het haar, tot we aan plasticinedachten. Zo schoot er spontaan een nieuw experiment te binnen. We dachten als we nu is alle 4 geblinddoekt gedurende 1 minuut een stuk plasticine bewerken. We kregen alle dezelfde woorden voorgeschoteld, maar toch was ons eindresultaat steeds anders.&nbsp;</span></p><p><br></p><p>Ondanks dat het woord dat we kregen hetzelfde was, betekende dat voor iedereen iets anders. We hebben dit experiment grondig gefotografeerd. Wanneer we alle foto’s bekeken, zagen we toch een link tussen al de experimenten die we hebben uitgevoerd. Namelijk uitdeining of uitzetting.</p><p><br></p><p>Bij uitdeining blijft het volume wel hetzelfde maar de vorm veranderd. Hierdoor waren we meteen geïnspireerd. &nbsp;</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-54",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Consult met begeleiders: 'uitdeining'",
+          "meta": "Door Tess, 08-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-55",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Tijdens de begeleiding is het resultaat van de nagellakproefjes en van de kleiproeven getoond en besproken.</p><p>Beide proeven zijn enthousiast onthaalt en de verschillende percepties zijn als interessant bevonden.&nbsp;</p><p>De ‘intelligence de la main’ voor de klei en de uitdeining bij de nagellak geeft duidelijk weer hoe handeling A invloed heeft op A’. Het zorgt voor een poëtisch geheel.&nbsp;</p><p><br></p><p>Er werd ons toevertrouwd om mee naar één object toe te gaan waarbij de uitdeining ook een invloed moest uitoefenen.</p><p>Het uitdienen en de sporen die hierbij worden achtergelaten. Bijvoorbeeld de watervlekjes die op een werf worden afgetekend om de lek op te volgen, de vetvlekjes van klei en koffiekoeken, … geven interessante processen weer.&nbsp;</p><p>Uitdeining geeft een specifiek aspect weer van metamorfose en voldoet aan onze voorwaarde van oncontroleerbaarheid. Er is ons aangeraden om het eindresultaat van de metamorfose strak te houden.&nbsp;</p><p><br></p><p>Verder gaven de begeleiders nog een aantal tips:</p><ul><li>Het proces moet tijden de presentatie goed worden aangetoond.</li><li>2D moesten we meer naar 3D gaan ombrengen.&nbsp;</li><li>Nadenken over het aangeven van de schaalgrootte.</li><li>Beperkte manipulatie mag.&nbsp;</li></ul><p><br></p><p>\"Het eindresultaat zal een groot vraagteken opleveren.\" — Philip Theys.</p>"
         },
         {
           "_styles": {
@@ -3727,34 +3937,6 @@
           "text": "<p>Hieronder volgen enkele GIF-animaties die de uitdeiningen laten zien:</p>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4r",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ecoline-houtpapier-water.gif",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-lead": {
               "color": "#fff"
@@ -3820,6 +4002,408 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-63",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mixed Media 1: meer content",
+          "meta": "Door Robert, op 14-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-64",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Deze week werden de katernen van de Theorie Multidisciplinariteit toegevoegd aan de website. Verder werden er ook een cookie-warning toegevoegd, alsmede een pagina met gebruiksvoorwaarden voor de website. De website werd ook aan een Google Analytics account toegevoegd.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-09-at-17-2000x1250-82-800x500-11.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-09-at-17-2000x1250-82.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-09-at-17-2000x1250-35-800x500-89.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-09-at-17-2000x1250-35.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-09-at-17-2000x1250-54-800x500-31.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-09-at-17-2000x1250-54.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-09-at-17-2000x1250-29-800x500-25.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-09-at-17-2000x1250-29.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-65",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Creatie van een vlek op ware grootte",
+          "meta": "Door Céline/Robert, 14-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Twee dagen later werd Céline ziek, ongetwijfeld van de gevaarlijke dampen die vrij kwamen bij het vlekkenexperiment. Tess en Robert kwamen samen op school een bespraken via het internet met Céline hoe het project verder moest. Tess had een van de vlekken uit het kluisje gepakt om als voorbeeld te dienen bij de bespreking. Volgens haar was dat de enige vlek die in het kluisje lag, maar volgens Céline zat de rest in het logboek, en was de betreffende vlek de laatste die ze samen met Laura had gemaakt, en die moest dus nog drogen. Eigenlijk was iedereen het er over eens dat dit een erg geschikte vlek zou zijn. Toch wilden we proberen om een vlek te maken op grotere schaal, die we eventueel konden gebruiken voor het uiteindelijke object. Céline zou dit bij haar thuis proberen. In het geval dit mislukte zouden Tess en Robert thuis verder werken met de kleine 'gevonden' vlek, en een maquette maken van een 3 dimensionale uitwerking van de vorm.</p><p><br></p><p>Céline maakte de grote vlek door meerdere nagellakken samen op een papier te doen en er een volledig busje handgel over te kappen. Door de schaalvergroting was het onzeker of hetzelfde effect zou plaats vinden als bij de kleine vlekken. het was hopen op een goede uitkomst. Deze handgel was echter vloeiender dan de versie met de kleine vlek waardoor de proef mislukte.&nbsp;</p><p><br></p><p>Thuis aangekomen maakten Robert en Tess beide een interpretatie voor een volume. Robert maakte eerst voor beide interpretaties een abstractie van de contour die uit drie lagen bestond. Eerst maakte hij een abstractie door met een 'posterize' effect in Photoshop de vlek in 3 verschillende lagen of uitdeningen onder te verdelen(1). Van die lagen maakte hij weer enkel de contouren zichtbaar (2), van hieruit kon iedereen vertrekken—een soort gezamenlijke basis. Vervolgens gaf hij elke vlek een grijswaarde die correspondeerde met de gemiddelde kleurintensiteit van de drie vlekken(3). Uiteindelijk kwam er nog een derde abstractie uit, die per ongeluk ontstond uit het bewerkingsproces, maar die later veel indruk wekte bij de begeleiders (4).</p><p> </p><p>Voor zijn eigen interpretatie maakte Robert een solide vorm uit meerdere lagen schuimplaat. Het aantal lagen per contour werd bepaald door het percentage grijswaarde 74%–68%–34%, hetgeen resulteerde in een dikte van 7–6–3 lagen per contour.</p><p>Tess maakte een ruimtelijke instellatie met ijzerdraad die de contouren van de vlek volgden. Deze contouren of ringen hingen aan een frame van balsahout op verschillende hoogtes in de ruimte.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abstractie-1-vorm-2000x2000-36-800x800-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abstractie-1-vorm-2000x2000-36.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/countouren-2000x2000-8-800x800-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/countouren-2000x2000-8.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abstractie-2-kleurwaarde-2000x2000-50-800x800-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abstractie-2-kleurwaarde-2000x2000-50.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vloervlek-2000x2000-0-800x800-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vloervlek-2000x2000-0.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-5h",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5l",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Hieronder volgt Robert zijn ruimtelijke interpretatie van de vlek.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5j",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-8600-1400x933-83.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Hieronder volgt Tess haar ruimtelijke interpretatie van de vlek.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-8603-2000x1333-39.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-8605-2000x1333-96.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-8601-2000x1333-85.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider2-5k"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5c",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/15556194-1819741461602046-641792807-o-1400x787-15.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "De vlek op ware grote, gemaakt door Céline."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-57",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Consult met begeleiders: 'proefmaquettes'",
+          "meta": "Door Tess, 15-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-58",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Voor deze begeleiding zijn we de vorige ideeën en visies gaan omzetten naar 3D. Hiervoor is er de keuze gemaakt verder te werken op de vlekken. Er is een nieuw nagellakvlek gemaakt die is bewerkt met desinfecterende handlotion.&nbsp;</p><p>Deze vlek is ontleed geweest via computergestuurde programma’s om een patroon, hiërarchie of structuur te ontdekken. Robert heeft ook met CAD-software een digitale 3D rendering gemaakt van hoe het object eruit zou kunnen zien.</p><p><br></p><p>Het ontwerpproces wilden we verder zetten door opnieuw één grote vlek te maken en uit deze oncontroleerbaarheid een sculptuur of object te gaan ontwerpen dat voldoet aan de multidisciplinaire normen.&nbsp;</p><p>Tijdens de begeleiding is ons toevertrouwd dat de vlek die we bij ons hadden een waardevolle poëtische beleving geeft en we niet verder moeten gaan zoeken dan dit beeld.</p><p>De behaalde resultaten hadden voldoende potentieel op succes.&nbsp;</p><p><br></p><p>De proefmaquettes die zijn meegenomen op begeleiding waren beide sterk. De voorkeur ging uit naar de maquette waarbij er ringen die de lijnen van de vlek volgde poëtisch werden opgehangen met ijzerdraad. Het effect op de beleving van de maquette was een werkend beeld.</p><p><br></p><p>Er is verder besproken over hoe we de ringen zouden ophangen wat dan verder is geëvolueerd naar een bewegingsaspect waarbij we de ringen zouden ophijsen. Tijdens het hijsen zou de digitale vlek op de grond onthuld worden, en zou er een animatie van de uitdeining op de muur geprojecteerd worden.</p><p><br></p><p>Om dit te bereiken is er een hijsstructuur nodig die we verder zouden moeten uitwerken.</p><p><br></p><p>Het ontwerp begon vorm te krijgen en het was aan ons om over de uitwerkingsmogelijkheden na te denken.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-66",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Mixed Media 2: derde consult met Farida Moumouh",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-67",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Het laatste consult met Farida Moumouh was vrij bondig. Het concept was weeral anders dan wat het de vorige keer was, maar toch ging ze er weer met het gebruikelijke enthousiasme op in. Moumouh was erg te spreken over het concept en ze was met name gecharmeerd van de circulariteit van de performance—van tweedimensionaal op de grond (fysiek), naar driedimensionaal in de ruimte (fysiek), naar tweedimensionaal (digitaal). Moumouh vond het niet erg als de vlek binnen een grootte van een op een meter zou blijven. Uiteindelijk is de vlek toch twee keer zo groot geworden.</p>"
+        },
+        {
+          "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
             }
@@ -3862,15 +4446,118 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1x",
+          "_anchor": "header3-1y",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Bouwen: zinken contouren",
+          "meta": "Door Céline, 21-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0520-2000x1333-29-800x533-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0520-2000x1333-29.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0542-2000x1333-32-800x533-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0542-2000x1333-32.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0566-2000x1333-70-800x533-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0566-2000x1333-70.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0578-2000x1333-47-800x533-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0578-2000x1333-47.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-5r",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5s",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2016-12-21-17-1400x1171-76.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Het eindresultaat na een dag hard werken."
         },
         {
           "_styles": {
@@ -3882,15 +4569,117 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1y",
+          "_anchor": "header3-1x",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "Consult met begeleiders: 'bevestiging'",
+          "meta": "Door Tess/Robert, 22-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-56",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Tijdens het laatste consult werd voornamelijk besproken hoe we de contouren van de vlek en haar uitdeining zouden bevestigen en de techniek om het sculptuur op te trekken. Robert had het idee om het mechanisme achter een vals plafond te verstoppen, maar volgens de begeleiders &nbsp;mocht h<span style=\"font-size: 1.07rem; line-height: 1.5;\">et hulpmiddel om de cirkels op te heisen zichtbaar zijn boven aan het plafond. Eerst wilde de groep de constructie aan een balk in het tempelgebouw hangen, maar de begeleiders vonden de hoogte de van het plafond een te grote risicofactor—de bevestiging zou erg gevaarlijk zijn. Daarom werd er besloten om de presentatie op de ontwerpvloer door te laten gaan.</span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Bouwen: houten frame",
+          "meta": "Door Céline, 23-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Om de installatie op te hangen hadden we een op maat gemaakt ontwerp nodig van een kader waarin het geheel aan draden zou bevestigd worden. De installatie word tijdens de voorstelling ervan omhoog gehesen waardoor er een extra moeilijkheid bij kwam kijken. We ontwierpen een soort kruisopstelling met oogvijzen waardoor de verschillende draden zouden worden opgehangen. Doormiddel van een katrol en gewichtjes zouden de 3 ringen tegelijk worden opgetrokken maar toch op een ander tijdsstip omhoog komen.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5w",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/15713359-1823761374533388-959593393-n-1400x786-11.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Ruwe schets van de installatie door Céline."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20161223-122352-1400x787-21.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Céline bouwt het kruis."
         },
         {
           "_tags": [
@@ -4027,7 +4816,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -4193,7 +4982,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -4223,6 +5012,177 @@
           "title": "WEBSHOP",
           "text": "<br>Hier kan je het object kopen, alsmede een assortiment aan t-shirts, pins, en bandana's.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features3-68",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "PROTOTYPE",
+          "subtitle1": "prijs op aanvraag",
+          "caption1": "Zo goed als nieuw. Meeneemprijsje. <br>Gaat nog jaren mee!<br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KOOP NU</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "T-SHIRT",
+          "subtitle2": "€30,25",
+          "caption2": "XS–XXL<br><br>Kleur: zwart, grijs, wit<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/webapps/hermes?token=2MK07323V4465001S&amp;useraction=commit&amp;xclick_params=JTI2aG9zdGVkX2J1dHRvbl9pZCUzRFRTQ1pVSDc2WVpOUFElMjZidXNpbmVzcyUzREhCWUFRR0FKQUhSU1clMjZpdGVtX25hbWUlM0RNZXRhbW9yZm9zZSUyNTIwdC1zaGlydCUyNml0ZW1fbnVtYmVyJTNEbWV0YTAwMSUyNmFtb3VudCUzRDI1LjAwJTI2Y3VycmVuY3lfY29kZSUzREVVUiUyNmxjJTNETkwlMjZidXR0b25fc3VidHlwZSUzRHNlcnZpY2VzJTI2bm9fbm90ZSUzRDAlMjZjbiUzRFNwZWNpYWxlJTI1MjBpbnN0cnVjdGllcyUyNTIwdG9ldm9lZ2VuJTI1MjB2b29yJTI1MjBkZSUyNTIwdmVya29wZXIlMjUzYSUyNm5vX3NoaXBwaW5nJTNEMiUyNnRheF9yYXRlJTNEMjEuMDAwJTI2Ym4lM0RQUC1CdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHLmdpZiUyNTNhSG9zdGVkJTI2aW50ZXJuYWxfaXNfaG9zdGVkX2J1dHRvbiUzRHRydWUlMjZjaGFyc2V0JTNEVVRGLTglMjZsb2dpbl9lbWFpbCUzRHJvYmVydHdlc3RlcnZlbGQlMjU0MGdtYWlsLmNvbSUyNiUyNndhX3R5cGUlM0RCdXlOb3clMjY=&amp;mfid=1483985954320_42a2776b43637#/checkout/login\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KOOP NU</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "BANDANA",
+          "subtitle3": "18,99",
+          "caption3": "One size fits all.<br><br>Kleur: zwart<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KOOP NU</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "OVERSCHOT VISDRAAD",
+          "subtitle4": "€10,99",
+          "caption4": "Twee rollen, waarvan één onaangebroken. O<span style=\"font-size: 1rem; line-height: 1.5;\">ngeveer 750 m</span><br>Capaciteit: 13,90 kg – 31 lbs<br>Kleur: doorzichtig",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KOOP NU</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotosbeschikbaar-2000x1250-79-800x500-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotosbeschikbaar-2000x1250-79.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t-shirt-2000x1250-30-800x500-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t-shirt-2000x1250-30.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bandana-2000x1250-54-800x500-33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bandana-2000x1250-54.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/visdraad-2000x1250-80-800x500-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/visdraad-2000x1250-80.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-69",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -4358,7 +5318,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -4380,7 +5340,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-361.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3610.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4415,7 +5375,7 @@
           "_anchor": "features3-18",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -4445,7 +5405,7 @@
           },
           "title1": "CÉLINE DE BRUYCKER",
           "subtitle1": "Interieurarchitect",
-          "caption1": "Maakt altijd ruzie met mij. Wil niet op de foto.",
+          "caption1": "Leeftijd: <br>20 jaar<br>Persoonlijke interesses: <br>dansen, de baas spelen<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -4457,7 +5417,7 @@
           },
           "title2": "TESS FRANCKEN",
           "subtitle2": "Interieurarchitect",
-          "caption2": "Gedraagt zich. Geeft mij eten. Heeft een lief in Parijs.",
+          "caption2": "Leeftijd: <br>22 jaar<br>Persoonlijke interesses: <br>lezen, niet kunnen kiezen",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -4469,7 +5429,7 @@
           },
           "title3": "LAURA LIECKENS",
           "subtitle3": "Interieurarchitect",
-          "caption3": "Heeft stage doordeweeks, behalve op donderdag.",
+          "caption3": "Leeftijd: <br>24<br>Persoonlijke interesses: <br>volleybal, altijd op stage",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -4481,7 +5441,7 @@
           },
           "title4": "ROBERT WESTERVELD",
           "subtitle4": "Productontwikkelaar",
-          "caption4": "Nederlander. Maakt slechte grappen.",
+          "caption4": "Leeftijd: <br>22 jaar<br>Persoonlijke interesses:<br>schrijven, altijd kritiek hebben",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -4522,37 +5482,40 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/celine-2000x1500-74-800x600-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/celine-2000x1500-74.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/tess-2000x1500-28-800x600-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tess-2000x1500-28.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/laura-2000x1500-69-800x600-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/laura-2000x1500-69.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/robert-2000x1500-34-800x600-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/robert-2000x1500-34.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 0,
@@ -4566,6 +5529,34 @@
           "_anchor": "gallery1-19",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5z",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#2e2e2e",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/team-1400x875-28.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Team MetamorfoseLab"
         },
         {
           "_tags": [
@@ -4701,7 +5692,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -4723,7 +5714,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-361.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3610.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4748,172 +5739,6 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-4d",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/transparent-128x128-49.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Inhoud</strong><br><br><a href=\"Onderzoek.html\">Het vooronderzoek</a><br><a href=\"Proces.html\">Het proces</a><br><a href=\"Resultaat.html\">Het resultaat</a>",
-          "text2": "<strong>M10 Casestudy Multidisciplinariteit</strong>o.l.v. Michel Corthaut<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Philip Theys</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Bram Overstijns</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Faryda Moumouh<br></span><br>",
-          "text3": "<strong><br></strong><strong>Door:</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">\u001b\u001b\u001b\u001b\u001b</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Céline de Bruycker</span><br>Tess Francken<br>Laura Lieckens<br>Robert Westerveld"
-        }
-      ]
-    },
-    "page9.html": {
-      "settings": {
-        "title": "Inspiratiebronnen",
-        "meta_descr": "Hier worden de verschillende inspiratiebronnen voor het project getoond en uitgelegd."
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f3c649!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-4s",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-4t",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-92.png",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "INSPIRATIEBRONNEN",
-          "text": "<br>Hier worden de verschillende inspiratiebronnen voor het project getoond en uitgelegd.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-4u",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
