@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 172,
+    "uniqCompNum": 183,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -169,7 +169,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -368,7 +368,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -547,7 +547,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -847,18 +847,18 @@
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "24px"
+            }
+          },
           "_anchor": "content2-4n",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>\"Otten is een echte kunstenaar maar een zeer nuchtere die er niet voor terugdeinst om de keerzijde van het vak te tonen.\"</blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-size": "24px"
-            }
-          }
+          "text": "<blockquote>\"Otten is een echte kunstenaar maar een zeer nuchtere die er niet voor terugdeinst om de keerzijde van het vak te tonen.\"</blockquote>"
         },
         {
           "_styles": {
@@ -952,174 +952,290 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p>THE METAMORPHOSIS, DOOR SIMON DAW</p><p><br></p><p>The Metamorphosis is een voorstelling waarbij muziek, dans en verhaal op een inspirerende wijze worden samengebracht. Stagebuilding en scenografie komen duidelijk naar voren in deze kunstvorm. Voor de realisatie van het project is er gebruik gemaakt van stagebuilding op een manier die een volwaardige bijdrage biedt aan het verhaal. Zo zal er bijvoorbeeld tijdens de voorstelling de muur worden gekanteld omdat het hoofdpersonage als insect de mogelijkheid hee  om over de muren te lopen.</p><p><br></p><p><b>Verhaal</b></p><p>Het verhaal gaat over Gregor Samsa die op een dag ontwaakt als een monsterlijk insect. De reacties op zijn transformatie zijn zeer uiteenlopend.\nZijn jongere zus Grete zal haar broer als eerste benaderen en hee  een tamelijk optimistische benadering. Door de ledematen van haar broer aan te raken onderzoekt ze de reactie van het lichaam van haar broer die zich als gevolg van de aanrakingen in allerlei ongecontroleerde bochten wringt. Grete&nbsp;</p>",
+          "text2": "<p><br></p><p><br></p><p>tracht door het afspelen van muziek haar broer te kalmeren en te genezen maar als snel wordt duidelijk dat de muziek allesbehalve een rustgevende werking heeft. Nina, de moeder van Gregor, verliest bij de eerste confrontatie met haar zoon het bewustzijn waarop een ontroerende scene volgt, Gregor neemt haar in zijn armen en probeert haar uit zijn kamer te verwijderen. Meneer Samsa komt thuis op het ogenblik van de feiten en zijn eerste interpretatie van het tafereel is dat het insect zijn vrouw heeft aangevallen waarop hij het insect terug in de kamer tracht te krijgen met een opgerolde krant. Later neemt de moeder een geduldige positie aan en tracht haar zoon met de alarmerende transformatie te confronteren. Wanneer Gregor de woonkamer betreedt verliest hij zijn zelfbeheersing helemaal omdat de ruimte is ingericht naar zijn familie en hij hier geen invloed of vat op heeft. Tot slot zal hij een bruine vloeistof beginnen afscheiden waardoor het decor transformeert naar een soort action painting om het verhaal verder te zetten.</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-k",
+          "_name": "content2",
+          "_anchor": "content2-4v",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/transparent-128x128-49.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Inhoud</strong><br><br><a href=\"Onderzoek.html\">Het vooronderzoek</a><br><a href=\"Proces.html\">Het proces</a><br><a href=\"Resultaat.html\">Het resultaat</a>",
-          "text2": "<strong>M10 Casestudy Multidisciplinariteit</strong>o.l.v. Michel Corthaut<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Philip Theys</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Bram Overstijns</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Faryda Moumouh<br></span><br>",
-          "text3": "<strong><br></strong><strong>Door:</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">\u001b\u001b\u001b\u001b\u001b</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Céline de Bruycker</span><br>Tess Francken<br>Laura Lieckens<br>Robert Westerveld"
-        }
-      ]
-    },
-    "Inspiratie.html": {
-      "settings": {
-        "title": "Inspiratiebronnen",
-        "meta_descr": "Hier worden de verschillende inspiratiebronnen voor het project getoond en uitgelegd."
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
+          "text": "<blockquote>\"[De muziek] is een beklijvende soundscape geworden dat beschreven kan worden als een mengsel van verlangen, angst en acceptatie.\"</blockquote>",
           "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f3c649!important"
+            "BLOCKQUOTE": {
+              "font-size": "24px"
             }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-9",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-n",
+          "_name": "content6",
+          "_anchor": "content6-4w",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-92.png",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "title": "INSPIRATIEBRONNEN",
-          "text": "<br>Hier worden de verschillende inspiratiebronnen voor het project getoond en uitgelegd.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "text1": "<p><b>Decor\n</b></p><p>Een kant van het podium is voorzien van een keuken en de woonkamer voor de Samsa familie. De andere kant van het podium is voorzien van een donker en sterk decor. In dit deel is de slaapkamer van Gregor geplaatst. Dit gegeven is een cruciaal onderdeel omdat het toneelstuk start wanneer de familie Samsa huishoudelijke taken of dagdagelijkse activiteiten verricht. Meneer Samsa is de krant aan het lezen, mevrouw Samsa is de vaat aan het afdrogen aan de keukentafel en de jongere zus is huiswerk aan het maken op de grond. Terwijl Gregor aan het slapen is in zijn bed met de lakens zeer strak rond zich heen. Waardoor meteen een breuklijn wordt gesteld tussen het alledaagse tafereel en de bizarre en mysterieuze sfeer rond het hoofdpersonage Gregor Samsa.</p><p><br></p><p><b>Materiaal\n</b></p><p>Voor de voorstelling is er gebruik gemaakt van het decor. Daarnaast wordt ook het menselijk lichaam ingezet.&nbsp;</p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">De techniek blij  gelimiteerd, er is voornamelijk beweging van het menselijk lichaam waar te nemen en ook het decor ondergaat beweging en verandering in beperkte mate. Het toneel wordt door de meeste toeschouwers als weerzinwekkend en fascine- rend tegelijkertijd beschouwd. Dit dansstuk is eerder van psychologische aard, het bevat veel verbeelding en vraagt tegelijkertijd ook heel wat verbeelding van de toeschouwer. De toeschouwers kan het soms als storend en weerzinwekkend beschouwen omdat het werk zoveel emoties oproept.&nbsp;</span><br></p><p><br></p><p><b>Muziek</b>\n</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Frank Moon heeft &nbsp;de composities voor de begeleidende muziek van dit stuk gemaakt. Het eindresultaat is een beklijvende soundscape geworden dat beschreven kan worden als een mengsel van verlangen, angst en acceptatie.</span><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4x",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-4y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>VICTORY OVER THE SUN, DOOR KAZIMIR MALEVICH</p><p><br></p><p>Victory Over the Sun is een ‘kubo-futuristische opera performance’ die in 1913 in premiere ging te Sint Petersburg. Gestart vanuit een groep radicale kunstenaars is het absurde idee ontstaan een voorstelling te maken over het overwinnen van de zon. Mikhail Matiushin heeft &nbsp;de muziek gecomponeerd, Alexei Kruchenykh was de schrijver van het stuk en Kazimir Malevich is de ontwerper van decor en kostuums.</p><p><br></p><p><b>Victory Over the Sun</b></p><p>\nIn Victory Over the Sun staat de zon symbool voor het decadente verleden. Het verhaal gaat erover dat de zon het verleden vertegenwoordigd en dat men wil breken met de zon. Om dit te verwezenlijken gaat men de zon uit de lucht a reken en vervolgens opsluiten in een betonnen bak. De sterke mannen van de toekomst begraven de zon want de toekomst is mannelijk en de mensen zouden allemaal gelukkige gezichten hebben. Niettemin zal geluk op zich nooit meer bestaan. Zo krijgen we de man te zien die oorlog voert en de doodsbange man die niet langer in staat is om de wereld te begrijpen. De opera eindigt met een vliegtuigcrash op het podium.</p>",
+          "text2": "<p><br></p><p><br></p><p>De productie bevat een goede samenhang en ener- giek geheel vanwege de doordachte keuze van set, muziek, licht en kostuum. Tijdens de opera werd\nde traditionele opvatting van de theaterzaal anders geïnterpreteerd wat zorgde voor een vernieuwende en spannende ervaring. Het publiek werd meer in het midden gezet en de spelers circuleerden tussen het publiek waarbij ze een deel van de zaal ter beschikking hadden. In de voorstelling deelde ze maskers uit waardoor de lijn tussen acteurs en toeschouwer vager werd gemaakt.\n</p><p><br></p><p>Voor de toeschouwers was het vaak onduidelijk of ze het werk ernstig moesten nemen of dat het levendige stuk gericht was op ontspanning en plezier. Het thema zelf is serieus en tevens actueel relevant. Hoewel in Europa de eerste wereldoorlog dreigde uit te breken en ook de Balkan Oorlog plaatsvond is dit werk niet ontstaan met de intentie van angst voor de toekomst en de oorlogen, maar is het gecreëerd als een afwijzing van het duistere verleden.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>\"Voor de toeschouwers was het vaak onduidelijk of ze het werk ernstig moesten nemen of dat het levendige stuk gericht was op ontspanning en plezier.\"</blockquote>",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-50",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Het publiek en de pers was niet enthousiast over het absurde theater. De muziek was te chaotisch, de tekst zinloos en de kostuums waren lelijk en niet modieus. Jaren later werd er nog steeds negatief over de voorstelling gesproken. Het is vooral de bijdrage van Malevich waarover men is blijven schrijven.</p><p><br></p><p><b>Kazimir Malevich\n</b></p><p>Kazimir Malevich tekende de kostuums en de decors uit voor Victory over the sun. De kostuums bestaan uit geometrische vormen en het decor is een zwart vierkant. Hierin zien we nonfiguratieve beeldtaal terugkomen die ook een belangrijke plek had in de voorstelling.&nbsp;</p><p><br></p><p><br></p>",
+          "text2": "<p>Voor Malevich is het de eerste aanraking met de techniek van het suprematisme geweest. Nadien is hij hier op blijven verder werken, waarbij het zwarte vierkant als een soort centrum of icoon beschouwd kan worden.</p><p><b><br></b></p><p><b>Decor en kostuum</b></p><p>\nHet is een vorm van abstracte kunst en het sculpturaal weergeven van kunst.\nHet bevat raakvlakken met inrichting, interieur en scenografie.\nDe materialen zijn heel simpel en sober, voornamelijk karton en verf maakt Malevich kostuums die op zichzelf object en decor worden.\nDe kostuums zijn kleurrijk ten opzichte van het zwarte vierkant voor het decor.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-51",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-52",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Vergelijkende analyse</b></p><p>Beide cross overs zijn voorstellingen, het betreft één dansvoorstelling en één theatervoorstelling, die qua opzet en benadering van elkaar verschillen.\nDe decors die ingezet zijn hebben een totaal andere opbouw. Zo zien we bij Metamorphosis een beweegbaar en vrij gedetailleerd decor in vergelijking met het simpele zwarte vierkant bij Victory Over the Sun. Beide kennen een divers materiaalgebruik.\nBij Metamorphosis zien we dat er echt een interieur wordt gecreëerd. Er is een aanwezigheid van specifieke objecten zoals een tafel en een bed en daarnaast worden er ook muren aangegeven. Hierdoor kunnen toeschouwers de ruimte voor zichzelf a akenen en kunnen ze zich beter identificeren met het toneel. Het gaat hier eerder over een berekend decor. Dit is opzettelijk zo opgesteld omdat het stuk start vanuit een alledaagsheid waarin iedereen zich zou moeten herkennen. &nbsp;</p>",
+          "text2": "<p>Victory of the sun toont ons met een zwart vierkant een abstracter decor en een onbepaalder decor. De lezer zal zelf moeten invullen hoe hij de ruimte maak en hoe de omgeving er uitziet. Dit kan een bewuste keuze zijn omdat de voorstelling zich in meerdere omgevingen zou kunnen afspelen en dus niet in één omgeving kan geplaatst worden. Voor dit stuk is het eerder een intuïtief aanvoelen van de ruimte of omgeving. Het gaat hier over een toekomst die voor ons allen nog ontoereikbaar is en waar we nog geen volledig zicht op hebben. Beide hebben een dramatisch thema en roepen ook een vorm van onduidelijkheid en onzekerheid op. Het vernieuwende zorgt ervoor dat de toeschouwer niet meteen houvast vindt. De dansvoorstelling biedt deze houvast door een erkenning van een interieur ruimte te bieden, met name woonkamer, keuken en slaapkamer. De theater voorstelling gee echter geen houvast en laat de toeschouwer in het onbekende en eerder absurde.</p>"
         },
         {
           "_tags": [
@@ -1256,7 +1372,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -4264,7 +4380,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3611.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-361.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4607,7 +4723,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3611.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-361.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4632,6 +4748,172 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-4d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/transparent-128x128-49.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Inhoud</strong><br><br><a href=\"Onderzoek.html\">Het vooronderzoek</a><br><a href=\"Proces.html\">Het proces</a><br><a href=\"Resultaat.html\">Het resultaat</a>",
+          "text2": "<strong>M10 Casestudy Multidisciplinariteit</strong>o.l.v. Michel Corthaut<br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Philip Theys</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Bram Overstijns</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Faryda Moumouh<br></span><br>",
+          "text3": "<strong><br></strong><strong>Door:</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">\u001b\u001b\u001b\u001b\u001b</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Céline de Bruycker</span><br>Tess Francken<br>Laura Lieckens<br>Robert Westerveld"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "title": "Inspiratiebronnen",
+        "meta_descr": "Hier worden de verschillende inspiratiebronnen voor het project getoond en uitgelegd."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4s",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INTRODUCTIE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IDEEVORMING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Onderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Concept.html\">Concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspiratie.html\">Inspiratie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUCT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Proces.html\">Proces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resultaat</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Team.html\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Webshop.html\">WEBSHOP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-4t",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-92.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "INSPIRATIEBRONNEN",
+          "text": "<br>Hier worden de verschillende inspiratiebronnen voor het project getoond en uitgelegd.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-4u",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
