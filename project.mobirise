@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudy Multidisciplinariteit",
-    "currentPage": "index.html",
+    "currentPage": "Webshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -5268,17 +5268,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/fotosbeschikbaar-2000x1250-79-800x500-90.jpg",
                 "image": "@PROJECT_PATH@/assets/images/fotosbeschikbaar-2000x1250-79.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/t-shirt-2000x1250-30-800x500-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/t-shirt-2000x1250-30.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/t-shirt-2000x1250-0-800x500-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/t-shirt-2000x1250-0.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -5469,7 +5469,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-360.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-361.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5685,7 +5685,7 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "Team MetamorfoseLab"
+          "text": "Team MetamorfoseLab wil graag Pascal De Bruycker en Senne Jansen bedanken voor hun inzet en opofferingsgezindheid!"
         },
         {
           "_tags": [
@@ -5843,7 +5843,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-360.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-361.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
