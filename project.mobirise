@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudy Multidisciplinariteit",
-    "currentPage": "Proces.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 235,
+    "uniqCompNum": 237,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -232,6 +232,19 @@
           "_anchor": "gallery1-s",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>MetamorfoseLab</b> is een contextueel object gelinkt aan een multidisciplinaire invalshoek van interieurarchitectuur. Ontstaan na filosoferen, analyseren en onderzoeken van het begrip metamorfose. De website biedt ondersteunende informatie en is opgebouwd uit meerdere pagina’s.&nbsp;</p><p><br></p><p>De menutab Ideevorming bestaat uit twee onderdelen. Onder <a href=\"Onderzoek.html\">Vooronderzoek</a>&nbsp;vindt u het onderzoek verricht naar aanleiding van de Theorie Multidisciplinariteit onder leiding van Michel Corthaut. De <a href=\"Concept.html\">Concept</a>-pagina wat wij als team willen uitdrukken met het ontwerp. Het is de thematiek van het ontwerp.&nbsp;</p><p><br></p><p>Over het eindresultaat kan je meer informatie vinden onder de menutab Product, ook deze bestaat uit twee delen. Bij <a href=\"Proces.html\">Proces</a> is een beschrijving terug te vinden over het ontwerpproces, welke stappen en tussentijdse resultaten er zijn ondernomen. De tweede pagina <a href=\"Resultaat.html\">Resultaat </a>bevat een aantal afbeeldingen van het eindresultaat van het project.</p><p><br></p><p>Tot slot is er een beschrijving van het <a href=\"Team.html\">Team</a> en neem zeker eens een kijkje in de <a href=\"Webshop.html\">Webshop</a>&nbsp;voor een divers aanbod aan <b>MetamorfoseLab-</b>gerelateerde merchandise.</p>"
         },
         {
           "_tags": [
