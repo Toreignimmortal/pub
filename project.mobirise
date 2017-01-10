@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudy Multidisciplinariteit",
-    "currentPage": "Webshop.html",
+    "currentPage": "Resultaat.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 237,
+    "uniqCompNum": 241,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -4980,6 +4980,186 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "image2",
+          "_anchor": "image2-6n",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#2e2e2e",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vloervlek-1400x1400-44.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vloervlek-2000x1332-64-800x532-64.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vloervlek-2000x1332-64.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8739-2000x1333-83-800x533-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8739-2000x1333-83.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8731-2000x1333-57-800x533-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8731-2000x1333-57.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8675-2000x1333-40-800x533-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8675-2000x1333-40.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-6l",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6m",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#2e2e2e",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/p1000446-1-1400x1050-42.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8682-2000x1333-88-800x533-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8682-2000x1333-88.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8660-2000x1333-82-800x533-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8660-2000x1333-82.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8681-2000x1333-82-800x533-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8681-2000x1333-82.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1000429-1-2000x1333-38-800x533-97.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1000429-1-2000x1333-38.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-6o",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
           "_anchor": "contacts1-k",
           "_params": {
@@ -5469,7 +5649,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-361.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-362.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5843,7 +6023,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-361.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-362.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
