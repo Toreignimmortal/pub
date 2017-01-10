@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 226,
+    "uniqCompNum": 231,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2671,6 +2671,39 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-6d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Materiaalproeven: 'mechanische belasting'",
+          "meta": "Door Laura, 05-12-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Toen ik een eerste keer thuis rondkeek zag ik niet meteen materialen die in aanmerking kwamen voor te gebruiken in ons project. Ik heb dan maar alle materialen gepakt die ik zag liggen en met eigen krachten kon buiten krijgen. Ik heb ze enkele nachten in de vrieskoude laten liggen, maar zonder veel resultaat. De materialen die buiten lagen waren onder anderen: steigerhout, papier, karton, aluminium en balsahout.</p><p><br></p><p>Omdat de buiten temperaturen niet veel resultaten opleverden, ben ik de producten handmatig gaan manipuleren. Ik heb papier in kokend water gelegd, veel resultaat had het niet. Het papier scheurde zachtjes uit elkaar.&nbsp;</p><p>In de aluminium plaat ben ik beginnen krassen en heb er hete lucht boven gehouden. De hete lucht had weinig resultaat. De krassen gaven ook niet meteen de meest spectaculaire resultaten.&nbsp;</p><p><br></p><p>Ik ben over het balsahout met een strijkijzer gegaan, niet rechtstreeks er lang een doek tussen. De warmte ging ervoor zorgen dat het hout soepel begon te worden. Ik heb dan een kookpot gepakt en ben water beginnen koken. Toen het water kookte kwam er hete damp vrij. Het balsaplaatje heb ik erboven gehouden. Wanneer het hout doordrenkt was met hete lucht, kon je het plaatje helemaal vervormen. Ik heb bochten gemaakt in het hout.</p><p><br></p><p>Het karton heb ik in onze open haard gegooid. Iedereen weet natuurlijk dat papier gewoon opbrand. Maar het verbrandingsproces is wel interessant. Je let er nooit op maar een groot stuk karton verdwijnt op een interessante manier tot een klein hoopje as.</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-1v",
           "_params": {
             "paddingTop": 1,
@@ -4370,6 +4403,97 @@
           "text": "<p>Voor deze begeleiding zijn we de vorige ideeën en visies gaan omzetten naar 3D. Hiervoor is er de keuze gemaakt verder te werken op de vlekken. Er is een nieuw nagellakvlek gemaakt die is bewerkt met desinfecterende handlotion.&nbsp;</p><p>Deze vlek is ontleed geweest via computergestuurde programma’s om een patroon, hiërarchie of structuur te ontdekken. Robert heeft ook met CAD-software een digitale 3D rendering gemaakt van hoe het object eruit zou kunnen zien.</p><p><br></p><p>Het ontwerpproces wilden we verder zetten door opnieuw één grote vlek te maken en uit deze oncontroleerbaarheid een sculptuur of object te gaan ontwerpen dat voldoet aan de multidisciplinaire normen.&nbsp;</p><p>Tijdens de begeleiding is ons toevertrouwd dat de vlek die we bij ons hadden een waardevolle poëtische beleving geeft en we niet verder moeten gaan zoeken dan dit beeld.</p><p>De behaalde resultaten hadden voldoende potentieel op succes.&nbsp;</p><p><br></p><p>De proefmaquettes die zijn meegenomen op begeleiding waren beide sterk. De voorkeur ging uit naar de maquette waarbij er ringen die de lijnen van de vlek volgde poëtisch werden opgehangen met ijzerdraad. Het effect op de beleving van de maquette was een werkend beeld.</p><p><br></p><p>Er is verder besproken over hoe we de ringen zouden ophangen wat dan verder is geëvolueerd naar een bewegingsaspect waarbij we de ringen zouden ophijsen. Tijdens het hijsen zou de digitale vlek op de grond onthuld worden, en zou er een animatie van de uitdeining op de muur geprojecteerd worden.</p><p><br></p><p>Om dit te bereiken is er een hijsstructuur nodig die we verder zouden moeten uitwerken.</p><p><br></p><p>Het ontwerp begon vorm te krijgen en het was aan ons om over de uitwerkingsmogelijkheden na te denken.</p>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img040-2000x1414-20-800x565-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img040-2000x1414-20.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img042-2000x1414-99-800x565-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img042-2000x1414-99.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img043-2000x1414-53-800x565-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img043-2000x1414-53.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img044-045-2000x1414-8-800x565-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img044-045-2000x1414-8.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-6a",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-6c",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img041-1400x990-9.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -5340,7 +5464,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3613.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3614.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5714,7 +5838,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3613.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3614.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
