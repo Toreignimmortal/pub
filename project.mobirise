@@ -4991,7 +4991,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/animatie3.2.1.gif",
+              "src": "@PROJECT_PATH@/assets/images/animatie3.2.2.gif",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -5649,7 +5649,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-364.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-365.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6023,7 +6023,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-364.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-365.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
