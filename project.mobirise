@@ -4990,7 +4990,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/animatie3.2.2.gif",
               "width": 1400,
               "link": "",
@@ -4999,7 +4998,11 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/watch?v=_rpg1IzoG9I",
+              "active": true,
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": false
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
@@ -5649,7 +5652,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-365.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-366.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6023,7 +6026,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-365.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-366.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
