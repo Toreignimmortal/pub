@@ -979,18 +979,18 @@
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "24px"
+            }
+          },
           "_anchor": "content2-4v",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>\"[De muziek] is een beklijvende soundscape geworden dat beschreven kan worden als een mengsel van verlangen, angst en acceptatie.\"</blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-size": "24px"
-            }
-          }
+          "text": "<blockquote>\"[De muziek] is een beklijvende soundscape geworden dat beschreven kan worden als een mengsel van verlangen, angst en acceptatie.\"</blockquote>"
         },
         {
           "_tags": [
@@ -1087,18 +1087,18 @@
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "24px"
+            }
+          },
           "_anchor": "content2-4z",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>\"Voor de toeschouwers was het vaak onduidelijk of ze het werk ernstig moesten nemen of dat het levendige stuk gericht was op ontspanning en plezier.\"</blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-size": "24px"
-            }
-          }
+          "text": "<blockquote>\"Voor de toeschouwers was het vaak onduidelijk of ze het werk ernstig moesten nemen of dat het levendige stuk gericht was op ontspanning en plezier.\"</blockquote>"
         },
         {
           "_tags": [
@@ -1195,18 +1195,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
           "_anchor": "content1-5x",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Bronvermelding afbeeldingen:&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding theatervoorstelling ‘Victory over the sun’. Geraadpleegd op 23 november 2016 via https://commons.wikimedia.org/wiki/File:Victory_over_the_Sun_(Stas_Namin's_theatre,_Moscow,_2014)_14.jpg</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding omtrent Victory over the sun. Geraadpleegd op 23 november 016 via https://www.wikiart.org/en/kazimir-malevich/not_detected_219727-1913.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding theatervoorstelling ‘Victory over the sun’. Geraadpleegd op 23 november 2016 via https://www.flickr.com/photos/gubanova/3111110804</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding theatervoorstelling ‘Victory over the sun’. Geraadpleegd op 23 november 2016 via https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Victory_over_the_Sun_(Stas_Namin's_theatre,_Moscow,_2014)_07.jpg/1074px-Victory_over_the_Sun_(Stas_Namin's_theatre,_Moscow,_2014)_07.jpg&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span>Kenton, T. (2013). Foto’s uit dansvoorstelling ‘Metamorphosis-dancing-kafka’. Geraadpleegd op 23 november 2016 via http://www.nybooks.com/daily/2013/09/21/metamorphosis-dancing-kafka/.</p><p><br></p><p><br></p><p><br></p>",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          }
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Bronvermelding afbeeldingen:&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding theatervoorstelling ‘Victory over the sun’. Geraadpleegd op 23 november 2016 via https://commons.wikimedia.org/wiki/File:Victory_over_the_Sun_(Stas_Namin's_theatre,_Moscow,_2014)_14.jpg</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding omtrent Victory over the sun. Geraadpleegd op 23 november 016 via https://www.wikiart.org/en/kazimir-malevich/not_detected_219727-1913.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding theatervoorstelling ‘Victory over the sun’. Geraadpleegd op 23 november 2016 via https://www.flickr.com/photos/gubanova/3111110804</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Afbeelding theatervoorstelling ‘Victory over the sun’. Geraadpleegd op 23 november 2016 via https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Victory_over_the_Sun_(Stas_Namin's_theatre,_Moscow,_2014)_07.jpg/1074px-Victory_over_the_Sun_(Stas_Namin's_theatre,_Moscow,_2014)_07.jpg&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span>Kenton, T. (2013). Foto’s uit dansvoorstelling ‘Metamorphosis-dancing-kafka’. Geraadpleegd op 23 november 2016 via http://www.nybooks.com/daily/2013/09/21/metamorphosis-dancing-kafka/.</p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -3974,12 +3974,12 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-6i",
+          "_anchor": "image2-6h",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
             "bgColor": "#fff",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -4002,68 +4002,12 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-6h",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ecoline-houtpapier-water.gif",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-6g",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ecoline-handgel.gif",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
           "_anchor": "image2-6f",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
             "bgColor": "#fff",
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -5512,7 +5456,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3615.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-360.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5886,7 +5830,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3615.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-360.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
