@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudy Multidisciplinariteit",
-    "currentPage": "Onderzoek.html",
+    "currentPage": "Proces.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3101,7 +3101,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Nadien zijn we verder gaan nadenken over andere experimenten. Aangezien we de eerste kleiproef als leerrijk hebben ervaren zijn we gaan kijken hoe we deze op een ander manier zouden kunnen vormgeven.</p><p>Vanuit de eerste kleiproef is er een nieuwe gelijkaardige proef ontwikkeld. Er is een lijstje opgesteld met een aantal werkwoorden (duwen, draaien, gooien, knijpen, trekken, …). Dit lijstje heeft iedereen tegelijkertijd geblinddoekt gevolgd. Na het afwerken van de lijst mocht de blinddoek af en werden de resultaten bekeken.&nbsp;</p><p>Ook hier waren er grote verschillen in de vormgeving van de kei aanwezig. Twee van de vier bewerkte kleiblokjes toonden hier wel gelijkaardige vormen.&nbsp;</p>"
+          "text": "<p>Nadien zijn we verder gaan nadenken over andere experimenten. Aangezien we de eerste proef als leerrijk hebben ervaren zijn we gaan kijken hoe we deze op een ander manier zouden kunnen vormgeven.</p><p>Vanuit de eerste plasticineproef is er een nieuwe gelijkaardige proef ontwikkeld. Er is een lijstje opgesteld met een aantal werkwoorden (duwen, draaien, gooien, knijpen, trekken, …). Dit lijstje heeft iedereen tegelijkertijd geblinddoekt gevolgd. Na het afwerken van de lijst mocht de blinddoek af en werden de resultaten bekeken.&nbsp;</p><p>Ook hier waren er grote verschillen in de vormgeving van de plasticine aanwezig. Twee van de vier bewerkte plasticineblokjes toonden hier wel gelijkaardige vormen.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -5060,7 +5060,7 @@
           "title1": "PROTOTYPE",
           "subtitle1": "prijs op aanvraag",
           "caption1": "Zo goed als nieuw. Meeneemprijsje. <br>Gaat nog jaren mee!<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"mailto:robertwesterveld@gmail.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PRIJSOPGAVE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:robertwesterveld@gmail.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">PRIJSOPGAVE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -5072,7 +5072,7 @@
           "title2": "T-SHIRT",
           "subtitle2": "€30,25",
           "caption2": "XS–XXL<br><br>Kleur: zwart<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/webapps/hermes?token=2MK07323V4465001S&amp;useraction=commit&amp;xclick_params=JTI2aG9zdGVkX2J1dHRvbl9pZCUzRFRTQ1pVSDc2WVpOUFElMjZidXNpbmVzcyUzREhCWUFRR0FKQUhSU1clMjZpdGVtX25hbWUlM0RNZXRhbW9yZm9zZSUyNTIwdC1zaGlydCUyNml0ZW1fbnVtYmVyJTNEbWV0YTAwMSUyNmFtb3VudCUzRDI1LjAwJTI2Y3VycmVuY3lfY29kZSUzREVVUiUyNmxjJTNETkwlMjZidXR0b25fc3VidHlwZSUzRHNlcnZpY2VzJTI2bm9fbm90ZSUzRDAlMjZjbiUzRFNwZWNpYWxlJTI1MjBpbnN0cnVjdGllcyUyNTIwdG9ldm9lZ2VuJTI1MjB2b29yJTI1MjBkZSUyNTIwdmVya29wZXIlMjUzYSUyNm5vX3NoaXBwaW5nJTNEMiUyNnRheF9yYXRlJTNEMjEuMDAwJTI2Ym4lM0RQUC1CdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHLmdpZiUyNTNhSG9zdGVkJTI2aW50ZXJuYWxfaXNfaG9zdGVkX2J1dHRvbiUzRHRydWUlMjZjaGFyc2V0JTNEVVRGLTglMjZsb2dpbl9lbWFpbCUzRHJvYmVydHdlc3RlcnZlbGQlMjU0MGdtYWlsLmNvbSUyNiUyNndhX3R5cGUlM0RCdXlOb3clMjY=&amp;mfid=1483985954320_42a2776b43637#/checkout/login\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KOOP NU</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/webapps/hermes?token=2MK07323V4465001S&amp;useraction=commit&amp;xclick_params=JTI2aG9zdGVkX2J1dHRvbl9pZCUzRFRTQ1pVSDc2WVpOUFElMjZidXNpbmVzcyUzREhCWUFRR0FKQUhSU1clMjZpdGVtX25hbWUlM0RNZXRhbW9yZm9zZSUyNTIwdC1zaGlydCUyNml0ZW1fbnVtYmVyJTNEbWV0YTAwMSUyNmFtb3VudCUzRDI1LjAwJTI2Y3VycmVuY3lfY29kZSUzREVVUiUyNmxjJTNETkwlMjZidXR0b25fc3VidHlwZSUzRHNlcnZpY2VzJTI2bm9fbm90ZSUzRDAlMjZjbiUzRFNwZWNpYWxlJTI1MjBpbnN0cnVjdGllcyUyNTIwdG9ldm9lZ2VuJTI1MjB2b29yJTI1MjBkZSUyNTIwdmVya29wZXIlMjUzYSUyNm5vX3NoaXBwaW5nJTNEMiUyNnRheF9yYXRlJTNEMjEuMDAwJTI2Ym4lM0RQUC1CdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHLmdpZiUyNTNhSG9zdGVkJTI2aW50ZXJuYWxfaXNfaG9zdGVkX2J1dHRvbiUzRHRydWUlMjZjaGFyc2V0JTNEVVRGLTglMjZsb2dpbl9lbWFpbCUzRHJvYmVydHdlc3RlcnZlbGQlMjU0MGdtYWlsLmNvbSUyNiUyNndhX3R5cGUlM0RCdXlOb3clMjY=&amp;mfid=1483985954320_42a2776b43637#/checkout/login\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KOOP NU</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -5084,7 +5084,7 @@
           "title3": "BANDANA",
           "subtitle3": "18,99",
           "caption3": "One size fits all.<br><br>Kleur: zwart<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/webapps/hermes?token=3S824162VG2920428&amp;useraction=commit&amp;xclick_params=JTI2aG9zdGVkX2J1dHRvbl9pZCUzRDRXSFpBRzVCNU1LNkElMjZidXNpbmVzcyUzREhCWUFRR0FKQUhSU1clMjZpdGVtX25hbWUlM0RNZXRhbW9yZm9zZSUyNTIwYmFuZGFuYSUyNml0ZW1fbnVtYmVyJTNEbWV0YTAwMiUyNmFtb3VudCUzRDE1LjAwJTI2Y3VycmVuY3lfY29kZSUzREVVUiUyNmxjJTNETkwlMjZidXR0b25fc3VidHlwZSUzRHNlcnZpY2VzJTI2bm9fbm90ZSUzRDAlMjZjbiUzRFNwZWNpYWxlJTI1MjBpbnN0cnVjdGllcyUyNTIwdG9ldm9lZ2VuJTI1MjB2b29yJTI1MjBkZSUyNTIwdmVya29wZXIlMjUzYSUyNm5vX3NoaXBwaW5nJTNEMiUyNnRheF9yYXRlJTNEMjEuMDAwJTI2Ym4lM0RQUC1CdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHLmdpZiUyNTNhSG9zdGVkJTI2aW50ZXJuYWxfaXNfaG9zdGVkX2J1dHRvbiUzRHRydWUlMjZjaGFyc2V0JTNEVVRGLTglMjZsb2dpbl9lbWFpbCUzRHJvYmVydHdlc3RlcnZlbGQlMjU0MGdtYWlsLmNvbSUyNiUyNndhX3R5cGUlM0RCdXlOb3clMjY=&amp;mfid=1483988743805_ff76f166b92ab#/checkout/login\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KOOP NU</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/webapps/hermes?token=3S824162VG2920428&amp;useraction=commit&amp;xclick_params=JTI2aG9zdGVkX2J1dHRvbl9pZCUzRDRXSFpBRzVCNU1LNkElMjZidXNpbmVzcyUzREhCWUFRR0FKQUhSU1clMjZpdGVtX25hbWUlM0RNZXRhbW9yZm9zZSUyNTIwYmFuZGFuYSUyNml0ZW1fbnVtYmVyJTNEbWV0YTAwMiUyNmFtb3VudCUzRDE1LjAwJTI2Y3VycmVuY3lfY29kZSUzREVVUiUyNmxjJTNETkwlMjZidXR0b25fc3VidHlwZSUzRHNlcnZpY2VzJTI2bm9fbm90ZSUzRDAlMjZjbiUzRFNwZWNpYWxlJTI1MjBpbnN0cnVjdGllcyUyNTIwdG9ldm9lZ2VuJTI1MjB2b29yJTI1MjBkZSUyNTIwdmVya29wZXIlMjUzYSUyNm5vX3NoaXBwaW5nJTNEMiUyNnRheF9yYXRlJTNEMjEuMDAwJTI2Ym4lM0RQUC1CdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHLmdpZiUyNTNhSG9zdGVkJTI2aW50ZXJuYWxfaXNfaG9zdGVkX2J1dHRvbiUzRHRydWUlMjZjaGFyc2V0JTNEVVRGLTglMjZsb2dpbl9lbWFpbCUzRHJvYmVydHdlc3RlcnZlbGQlMjU0MGdtYWlsLmNvbSUyNiUyNndhX3R5cGUlM0RCdXlOb3clMjY=&amp;mfid=1483988743805_ff76f166b92ab#/checkout/login\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">KOOP NU</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -5096,7 +5096,7 @@
           "title4": "OVERSCHOT VISDRAAD",
           "subtitle4": "€10,99",
           "caption4": "Twee rollen, waarvan één onaangebroken. O<span style=\"font-size: 1rem; line-height: 1.5;\">ngeveer 750 m</span><br>Capaciteit: 13,90 kg – 31 lbs<br>Kleur: doorzichtig",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/webapps/hermes?token=853418689U330984C&amp;useraction=commit&amp;xclick_params=aXRlbV9uYW1lJTNET3ZlcnNjaG90JTI1MjB2aXNkcmFhZCUyNmJ1dHRvbl9zdWJ0eXBlJTNEc2VydmljZXMlMjZub19ub3RlJTNEMCUyNmNuJTNEU3BlY2lhbGUlMjUyMGluc3RydWN0aWVzJTI1MjB0b2V2b2VnZW4lMjUyMHZvb3IlMjUyMGRlJTI1MjB2ZXJrb3BlciUyNTNBJTI2bm9fc2hpcHBpbmclM0QyJTI2dGF4X3JhdGUlM0QwLjAwMCUyNmJuJTNEUFAtQnV5Tm93QkYlMjUzQWJ0bl9idXlub3dDQ19MRy5naWYlMjUzQUhvc3RlZCUyNmN1cnJlbmN5X2NvZGUlM0RFVVIlMjZhbW91bnQlM0QxMC45OSUyNmJ1c2luZXNzJTNESEJZQVFHQUpBSFJTVyUyNmhvc3RlZF9idXR0b25faWQlM0RFTVhSRkwzRTlVUkVOJTI2d2FfdHlwZSUzREJ1eU5vdw==&amp;mfid=1483988855964_e362a1f2b8fc5#/checkout/login\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KOOP NU</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/webapps/hermes?token=853418689U330984C&amp;useraction=commit&amp;xclick_params=aXRlbV9uYW1lJTNET3ZlcnNjaG90JTI1MjB2aXNkcmFhZCUyNmJ1dHRvbl9zdWJ0eXBlJTNEc2VydmljZXMlMjZub19ub3RlJTNEMCUyNmNuJTNEU3BlY2lhbGUlMjUyMGluc3RydWN0aWVzJTI1MjB0b2V2b2VnZW4lMjUyMHZvb3IlMjUyMGRlJTI1MjB2ZXJrb3BlciUyNTNBJTI2bm9fc2hpcHBpbmclM0QyJTI2dGF4X3JhdGUlM0QwLjAwMCUyNmJuJTNEUFAtQnV5Tm93QkYlMjUzQWJ0bl9idXlub3dDQ19MRy5naWYlMjUzQUhvc3RlZCUyNmN1cnJlbmN5X2NvZGUlM0RFVVIlMjZhbW91bnQlM0QxMC45OSUyNmJ1c2luZXNzJTNESEJZQVFHQUpBSFJTVyUyNmhvc3RlZF9idXR0b25faWQlM0RFTVhSRkwzRTlVUkVOJTI2d2FfdHlwZSUzREJ1eU5vdw==&amp;mfid=1483988855964_e362a1f2b8fc5#/checkout/login\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KOOP NU</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -5340,7 +5340,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3612.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3613.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5714,7 +5714,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3612.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-3613.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
