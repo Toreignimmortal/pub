@@ -5412,7 +5412,7 @@
           "title2": "T-SHIRT",
           "subtitle2": "€30,25",
           "caption2": "XS–XXL<br><br>Kleur: zwart<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/webapps/hermes?token=2MK07323V4465001S&amp;useraction=commit&amp;xclick_params=JTI2aG9zdGVkX2J1dHRvbl9pZCUzRFRTQ1pVSDc2WVpOUFElMjZidXNpbmVzcyUzREhCWUFRR0FKQUhSU1clMjZpdGVtX25hbWUlM0RNZXRhbW9yZm9zZSUyNTIwdC1zaGlydCUyNml0ZW1fbnVtYmVyJTNEbWV0YTAwMSUyNmFtb3VudCUzRDI1LjAwJTI2Y3VycmVuY3lfY29kZSUzREVVUiUyNmxjJTNETkwlMjZidXR0b25fc3VidHlwZSUzRHNlcnZpY2VzJTI2bm9fbm90ZSUzRDAlMjZjbiUzRFNwZWNpYWxlJTI1MjBpbnN0cnVjdGllcyUyNTIwdG9ldm9lZ2VuJTI1MjB2b29yJTI1MjBkZSUyNTIwdmVya29wZXIlMjUzYSUyNm5vX3NoaXBwaW5nJTNEMiUyNnRheF9yYXRlJTNEMjEuMDAwJTI2Ym4lM0RQUC1CdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHLmdpZiUyNTNhSG9zdGVkJTI2aW50ZXJuYWxfaXNfaG9zdGVkX2J1dHRvbiUzRHRydWUlMjZjaGFyc2V0JTNEVVRGLTglMjZsb2dpbl9lbWFpbCUzRHJvYmVydHdlc3RlcnZlbGQlMjU0MGdtYWlsLmNvbSUyNiUyNndhX3R5cGUlM0RCdXlOb3clMjY=&amp;mfid=1483985954320_42a2776b43637#/checkout/login\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KOOP NU</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TSCZUH76YZNPQ\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KOOP NU</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -5680,7 +5680,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-362.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-363.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6054,7 +6054,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-362.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-363.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
