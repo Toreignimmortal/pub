@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudy Multidisciplinariteit",
-    "currentPage": "Resultaat.html",
+    "currentPage": "Proces.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2466,7 +2466,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/nagellak-2000x1414-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nagellak-2000x1414-50.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2480,7 +2480,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/nagellak-2-2000x1414-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nagellak-2-2000x1414-4.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -5652,7 +5652,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-366.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-360.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6026,7 +6026,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-366.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edward-watson-as-gregor-samsa-2000x1331-360.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
